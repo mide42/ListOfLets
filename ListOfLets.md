@@ -8,7 +8,8 @@ Some technologies listed here might be registered trademarks.
 **Applet:** 
 Small Java program embedded in HTML page. 
 
-**Batchlet**
+**Batchlet:**
+A step for a Java program that runs as batch job, i.e. for background processing.
 
 **Doclet:**
 A program that is used by the *JavaDoc* tool to generate custom documentation output.
