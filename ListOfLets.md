@@ -5,15 +5,18 @@ Some technologies listed here might be registered trademarks.
 
 ## Java Technologies
 
-**Applet**
+**Applet:** 
+Small Java program embedded in HTML page. 
 
 **Batchlet**
 
 **Doclet**
 
 **Midlet**
+Application that runs on a mobile device (or other embedded devices) which supports *Java ME* (Java MicroEdition).
 
-**Servlet**
+**Servlet:** 
+Java program that runs in *Java Servlet Container* like *Tomcat* and creates dynamic web content.
 
 **Translet**
 
@@ -25,6 +28,7 @@ Some technologies listed here might be registered trademarks.
 **Bookmarklet**
 
 **Dashlets**
+<br>
 
 
 
