@@ -10,9 +10,10 @@ Small Java program embedded in HTML page.
 
 **Batchlet**
 
-**Doclet**
+**Doclet:**
+A program that is used by the *JavaDoc* tool to generate custom documentation output.
 
-**Midlet**
+**Midlet:**
 Application that runs on a mobile device (or other embedded devices) which supports *Java ME* (Java MicroEdition).
 
 **Servlet:** 
