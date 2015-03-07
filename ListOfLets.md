@@ -47,7 +47,12 @@ Resources:
 ## Non-Java Technologies
 
 **Bookmarklet:**
-...
+Small makro written in JavaScript and saved as browser bookmark.
+Synonym: Favlet.
+Resources: 
+[Wikipedia article](http://en.wikipedia.org/wiki/Bookmarklet), 
+[bookmarklets.com](http://bookmarklets.com),
+[list of bookmarklets by Jesse Ruderman](https://www.squarefree.com/bookmarklets/).
 
 **Dashlets:**
 ...
