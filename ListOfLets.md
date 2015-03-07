@@ -54,7 +54,8 @@ Resources:
 [bookmarklets.com](http://bookmarklets.com),
 [list of bookmarklets by Jesse Ruderman](https://www.squarefree.com/bookmarklets/).
 
-**Dashlets:**
+
+**Dashlet:**
 Component to be added to a dashboard. The term is used by several vendors.
 Resources:
 [Dashlets on nagios.org](http://exchange.nagios.org/directory/Addons/Dashlets), [Dashlets on sugarcrm.com](http://developer.sugarcrm.com/category/dashlets/).
