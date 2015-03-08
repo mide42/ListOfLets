@@ -13,6 +13,8 @@ Public URL for viewing main document as rendered HTML: https://github.com/mide42
 
 Short URL: http://tinyurl.com/n4huhsv
 
+<br>
+Some technical details on this file can also be found in this repository's wiki: https://github.com/mide42/ListOfLets/wiki
 
 
 
