@@ -59,6 +59,14 @@ Resources:
 Component to be added to a dashboard. The term is used by several vendors.
 Resources:
 [Dashlets on nagios.org](http://exchange.nagios.org/directory/Addons/Dashlets), [Dashlets on sugarcrm.com](http://developer.sugarcrm.com/category/dashlets/).
+
+
+**Quizlet:**
+Online service for flashcards, e.g. for learning vocabulary. 
+Resources: 
+[Wikipedia article](http://en.wikipedia.org/wiki/Quizlet),
+[quizlet.com](http://quizlet.com)
+
 <br>
 
 
