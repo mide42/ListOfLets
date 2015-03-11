@@ -1,5 +1,7 @@
 # List Of *"-Lets"*
 
+This document contains a list of names of *software technologies* or *software components* ending with *"-let"*.
+<br>
 Some technologies listed here might be registered trademarks.
 <br>
 
@@ -12,7 +14,7 @@ An *Applet* is a small Java program embedded in an HTML page; see also [the Wiki
 **Batchlet:**
 A *Batchlet* is a step for a Java program that runs as batch job, i.e. for background processing.
 Resources: 
-[API-Documentation of interface *javax.batch.api-Batchlet*](https://docs.oracle.com/javaee/7/api/javax/batch/api/Batchlet.html).
+[API documentation of interface *javax.batch.api.Batchlet* on *oracle.com*](https://docs.oracle.com/javaee/7/api/javax/batch/api/Batchlet.html).
 
 
 **Doclet:**
@@ -22,7 +24,9 @@ Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Doclet).
 
 **Midlet:**
 A *Midlet* is an application that runs on a mobile device (or other embedded devices) which supports *Java ME* (Java MicroEdition).
-Resources: [Wikipedia article](http://en.wikipedia.org/wiki/MIDlet).
+Resources: 
+[Wikipedia article](http://en.wikipedia.org/wiki/MIDlet).
+[API documentation of class *javax.microedition.midlet.MIDlet* on *oracle.com*](http://docs.oracle.com/javame/config/cldc/ref-impl/midp2.0/jsr118/javax/microedition/midlet/MIDlet.html)
 
 
 **Servlet:** 
@@ -72,7 +76,7 @@ Resources:
 Online service for flashcards, e.g. for learning vocabulary. 
 Resources: 
 [Wikipedia article](http://en.wikipedia.org/wiki/Quizlet),
-[quizlet.com](http://quizlet.com)
+[homepage *quizlet.com*](http://quizlet.com)
 
 <br>
 
