@@ -25,7 +25,7 @@ Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Doclet).
 **Midlet:**
 A *Midlet* is an application that runs on a mobile device (or other embedded devices) which supports *Java ME* (Java MicroEdition).
 Resources: 
-[Wikipedia article](http://en.wikipedia.org/wiki/MIDlet).
+[Wikipedia article](http://en.wikipedia.org/wiki/MIDlet),
 [API documentation of class *javax.microedition.midlet.MIDlet* on *oracle.com*](http://docs.oracle.com/javame/config/cldc/ref-impl/midp2.0/jsr118/javax/microedition/midlet/MIDlet.html)
 
 
