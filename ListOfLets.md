@@ -55,6 +55,13 @@ Resources:
 [list of bookmarklets by Jesse Ruderman](https://www.squarefree.com/bookmarklets/).
 
 
+**CommandLet:**
+A command for the *Windows PowerShell* by Microsoft.
+Short form: CmdLet.
+Resources:
+[MSDN article *"Cmdlet Overview"*](https://msdn.microsoft.com/en-us/library/ms714395%28v=vs.85%29.aspx).
+
+
 **Dashlet:**
 Component to be added to a dashboard. The term is used by several vendors.
 Resources:
