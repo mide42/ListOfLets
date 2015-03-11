@@ -2,7 +2,7 @@
 
 Started in March 2015.
 
-Main document contains a list of names of software technologies ending with *"-let"*, e.g. App*LET* or Serv*LET*.
+Main document contains a list of names of *software technologies* or *software components* ending with *"-let"*, e.g. App*LET* or Serv*LET*.
 
 This repository contains only markdown files (for formatted text), but no source code for an executable computer program.
 
