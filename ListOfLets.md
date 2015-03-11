@@ -6,7 +6,7 @@ Some technologies listed here might be registered trademarks.
 ## Java Technologies
 
 **Applet:** 
-An *Applet* is a small Java program embedded in HTML page; see also [the Wikipedia article](http://en.wikipedia.org/wiki/Applet).
+An *Applet* is a small Java program embedded in an HTML page; see also [the Wikipedia article](http://en.wikipedia.org/wiki/Applet).
 
 
 **Batchlet:**
@@ -41,7 +41,7 @@ Resources: [Wikipedia's article on XSLT](https://en.wikipedia.org/wiki/XSLT).
 Resources: 
 [Wikipedia article](http://en.wikipedia.org/wiki/Restlet), 
 [Article on *javaword.com*](http://www.javaworld.com/article/2077958/soa/open-source-tools-rest-for-java-developers-restlet-for-the-weary.html),
-[restlet.com](http://restlet.com).
+[homepage *restlet.com*](http://restlet.com).
 <br>
 
 ## Non-Java Technologies
@@ -55,9 +55,9 @@ Resources:
 [list of bookmarklets by Jesse Ruderman](https://www.squarefree.com/bookmarklets/).
 
 
-**CommandLet:**
+**Commandlet:**
 A command for the *Windows PowerShell* by Microsoft.
-Short form: CmdLet.
+Short form: Cmdlet.
 Resources:
 [MSDN article *"Cmdlet Overview"*](https://msdn.microsoft.com/en-us/library/ms714395%28v=vs.85%29.aspx).
 
@@ -65,7 +65,7 @@ Resources:
 **Dashlet:**
 Component to be added to a dashboard. The term is used by several vendors.
 Resources:
-[Dashlets on nagios.org](http://exchange.nagios.org/directory/Addons/Dashlets), [Dashlets on sugarcrm.com](http://developer.sugarcrm.com/category/dashlets/).
+[Dashlets on nagios.org](http://exchange.nagios.org/directory/Addons/Dashlets), [Dashlets on *sugarcrm.com*](http://developer.sugarcrm.com/category/dashlets/).
 
 
 **Quizlet:**
