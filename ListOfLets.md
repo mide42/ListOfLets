@@ -69,7 +69,7 @@ Resources:
 **Dashlet:**
 Component to be added to a dashboard. The term is used by several vendors.
 Resources:
-[Dashlets on nagios.org](http://exchange.nagios.org/directory/Addons/Dashlets), [Dashlets on *sugarcrm.com*](http://developer.sugarcrm.com/category/dashlets/).
+[Dashlets on *nagios.org*](http://exchange.nagios.org/directory/Addons/Dashlets), [Dashlets on *sugarcrm.com*](http://developer.sugarcrm.com/category/dashlets/).
 
 
 **Quizlet:**
