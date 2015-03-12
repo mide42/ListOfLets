@@ -31,7 +31,9 @@ Resources:
 
 **Servlet:** 
 A *Servlet* is a Java program that runs in *Java Servlet Container* like *Tomcat* and creates dynamic web content.
-Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Java_servlet).
+Resources: 
+[Wikipedia article](http://en.wikipedia.org/wiki/Java_servlet),
+[API documentation of class *javax.servlet.http.HttpServlet* on *oracle.com*].
 
 
 **Translet:**
