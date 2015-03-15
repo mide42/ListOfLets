@@ -23,9 +23,10 @@ Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Doclet).
 
 
 **Droplets (AppleScript):**
-AppleScript program that has a special icon; the user can drag'n'drop a file on this icon, so that the program starts processing.
+AppleScript program that has a special icon; the user can drag'n'drop a file or folder on this icon, so that the program starts processing the contents of this file.
 Resources:
-[Short video (about 1 minute) on *youtube:com*](https://www.youtube.com/watch?v=PIaDq5ZqE1g).
+[Short video (about 1 minute) on *youtube.com*](https://www.youtube.com/watch?v=PIaDq5ZqE1g),
+[example droplet for calculation of a file's SHA1 checksum on *macworld.com*](http://hints.macworld.com/article.php?story=2010060915020592).
 
 
 **Droplets (DigitalOcean):**
