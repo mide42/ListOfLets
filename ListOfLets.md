@@ -87,6 +87,10 @@ Resources:
 [Dashlets on *nagios.org*](http://exchange.nagios.org/directory/Addons/Dashlets), [Dashlets on *sugarcrm.com*](http://developer.sugarcrm.com/category/dashlets/).
 
 
+**Favlet:**
+See entry **Bookmarklet**.
+
+
 **Quizlet:**
 Online service for flashcards, e.g. for learning vocabulary. 
 Resources: 
