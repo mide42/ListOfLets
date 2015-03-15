@@ -26,20 +26,20 @@ Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Doclet).
 AppleScript program that has a special icon; the user can drag'n'drop a file or folder on this icon, so that the program starts processing the contents of this file.
 Resources:
 [Short video (about 1 minute) on *youtube.com*](https://www.youtube.com/watch?v=PIaDq5ZqE1g),
-[example droplet for calculation of a file's SHA1 checksum on *macworld.com*](http://hints.macworld.com/article.php?story=2010060915020592).
+[example Droplet for calculation of a file's SHA1 checksum on *macworld.com*](http://hints.macworld.com/article.php?story=2010060915020592).
 
 
 **Droplets (DigitalOcean):**
-Virtual machine operated in the cloud provided by DigitalOcean.
+Virtual machine operated in the cloud offered by the company DigitalOcean.
 Resources:
-[Tutorial on how to create a droplet on *digitalocean.com*](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-digitalocean-droplet-virtual-server).
+[Tutorial on how to create a Droplet on *digitalocean.com*](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-digitalocean-droplet-virtual-server).
 
 
 **Midlet:**
 A *Midlet* is an application that runs on a mobile device (or other embedded devices) which supports *Java ME* (Java MicroEdition).
 Resources: 
 [Wikipedia article](http://en.wikipedia.org/wiki/MIDlet),
-[API documentation of class *javax.microedition.midlet.MIDlet* on *oracle.com*](http://docs.oracle.com/javame/config/cldc/ref-impl/midp2.0/jsr118/javax/microedition/midlet/MIDlet.html)
+[API documentation of class *javax.microedition.midlet.MIDlet* on *oracle.com*](http://docs.oracle.com/javame/config/cldc/ref-impl/midp2.0/jsr118/javax/microedition/midlet/MIDlet.html).
 
 
 **Servlet:** 
