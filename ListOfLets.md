@@ -22,6 +22,18 @@ A *Doclet* is a program that is used by the *JavaDoc* tool to generate custom do
 Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Doclet).
 
 
+**Droplets (AppleScript):**
+AppleScript program that has a special icon; the user can drag'n'drop a file on this icon, so that the program starts processing.
+Resources:
+[Short video (about 1 minute) on *youtube:com*](https://www.youtube.com/watch?v=PIaDq5ZqE1g).
+
+
+**Droplets (DigitalOcean):**
+Virtual machine operated in the cloud provided by DigitalOcean.
+Resources:
+[Tutorial on how to create a droplet on *digitalocean.com*](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-digitalocean-droplet-virtual-server).
+
+
 **Midlet:**
 A *Midlet* is an application that runs on a mobile device (or other embedded devices) which supports *Java ME* (Java MicroEdition).
 Resources: 
