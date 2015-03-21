@@ -91,6 +91,12 @@ Resources:
 See entry **Bookmarklet**.
 
 
+**Maplet:**
+A *Maplet* is a *graphical user interface* written for the computer algebra system *Maple*.
+Resources:
+[Overview on *Maplets* on *maplesoft.com*](http://www.maplesoft.com/support/help/maple/view.aspx?path=MapletsOverview).
+
+
 **Quizlet:**
 Online service for flashcards, e.g. for learning vocabulary. 
 Resources: 
