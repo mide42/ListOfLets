@@ -41,6 +41,11 @@ Resources:
 [Wikipedia article](http://en.wikipedia.org/wiki/MIDlet),
 [API documentation of class *javax.microedition.midlet.MIDlet* on *oracle.com*](http://docs.oracle.com/javame/config/cldc/ref-impl/midp2.0/jsr118/javax/microedition/midlet/MIDlet.html).
 
+**Portlet:**
+A *Portlet* is a component for an enterprise web portal.
+Resources:
+[Wikipedia article](http://en.wikipedia.org/wiki/Portlet),
+[article on the *Portlet* specification on *oracle.com*](http://www.oracle.com/technetwork/java/jsr286-141866.html).
 
 **Servlet:** 
 A *Servlet* is a Java program that runs in *Java Servlet Container* like *Tomcat* and creates dynamic web content.
