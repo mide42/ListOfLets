@@ -102,6 +102,11 @@ Resources:
 [Overview on *Maplets* on *maplesoft.com*](http://www.maplesoft.com/support/help/maple/view.aspx?path=MapletsOverview).
 
 
+**Movelets:**
+*Movelets* are XML files for the *[Movilizer](http://movilizer.com) framework* for mobile enterprise apps. 
+They typically contain definitions of business logic, screens and relevant data for business processes.
+Resources: [Documentation on *movilizer.com*](http://movilizer.com/understand-it/?L=1).
+
 **Smartlet:**
 Synonym for *Phablet*, i.e. a smartphone bigger than usual, but smaller than a tablet; term only used in German speaking countries? 
 
