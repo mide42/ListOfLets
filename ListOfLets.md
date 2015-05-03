@@ -102,6 +102,10 @@ Resources:
 [Overview on *Maplets* on *maplesoft.com*](http://www.maplesoft.com/support/help/maple/view.aspx?path=MapletsOverview).
 
 
+**Smartlet:**
+Synonym for *Phablet*, i.e. a smartphone bigger than usual, but smaller than a tablet; term only used in German speaking countries? 
+
+
 **Quizlet:**
 Online service for flashcards, e.g. for learning vocabulary. 
 Resources: 
