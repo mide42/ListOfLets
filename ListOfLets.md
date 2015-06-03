@@ -41,11 +41,13 @@ Resources:
 [Wikipedia article](http://en.wikipedia.org/wiki/MIDlet),
 [API documentation of class *javax.microedition.midlet.MIDlet* on *oracle.com*](http://docs.oracle.com/javame/config/cldc/ref-impl/midp2.0/jsr118/javax/microedition/midlet/MIDlet.html).
 
+
 **Portlet:**
 A *Portlet* is a component for an enterprise web portal.
 Resources:
 [Wikipedia article](http://en.wikipedia.org/wiki/Portlet),
 [article on the *Portlet* specification on *oracle.com*](http://www.oracle.com/technetwork/java/jsr286-141866.html).
+
 
 **Servlet:** 
 A *Servlet* is a Java program that runs in *Java Servlet Container* like *Tomcat* and creates dynamic web content.
@@ -115,7 +117,10 @@ Synonym for *Phablet*, i.e. a smartphone bigger than usual, but smaller than a t
 Online service for flashcards, e.g. for learning vocabulary. 
 Resources: 
 [Wikipedia article](http://en.wikipedia.org/wiki/Quizlet),
-[homepage *quizlet.com*](http://quizlet.com)
+[homepage *quizlet.com*](http://quizlet.com).
+
+
+**XMLStarlet:** Open source project providing command line tools for processing XML documents on Unix/Linux. Resource: [overview article on project's homepage](http://xmlstar.sourceforge.net/overview.php).
 
 <br>
 
