@@ -120,7 +120,7 @@ Resources:
 [homepage *quizlet.com*](http://quizlet.com).
 
 
-**XMLStarlet:** Open source project providing command line tools for processing XML documents on several operating systems (e.g. Linux or Windows). Resource: [Overview article on project's homepage](http://xmlstar.sourceforge.net/overview.php).
+**XMLStarlet:** Open source project providing command line tools for processing XML documents on several operating systems (e.g. Linux or Windows). Resource: [Overview article on the project's homepage](http://xmlstar.sourceforge.net/overview.php).
 
 <br>
 
