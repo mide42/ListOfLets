@@ -109,8 +109,9 @@ Resources:
 They typically contain definitions of business logic, screens and relevant data for business processes.
 Resources: [Documentation on *movilizer.com*](http://movilizer.com/understand-it/?L=1).
 
-**Smartlet:**
-Synonym for *Phablet*, i.e. a smartphone bigger than usual, but smaller than a tablet; term only used in German speaking countries? 
+
+**Phablet:** 
+see entry _"Smartlet"_. 
 
 
 **Quizlet:**
@@ -120,7 +121,12 @@ Resources:
 [homepage *quizlet.com*](http://quizlet.com).
 
 
-**XMLStarlet:** Open source project providing command line tools for processing XML documents on several operating systems (e.g. Linux or Windows). Resource: [Overview article on the project's homepage](http://xmlstar.sourceforge.net/overview.php).
+**Smartlet:**
+Synonym for *Phablet*, i.e. a smartphone bigger than usual, but smaller than a tablet; term only used in German speaking countries? 
+
+
+**XMLStarlet:** 
+Open source project providing command line tools for processing XML documents on several operating systems (e.g. Linux or Windows). Resource: [Overview article on the project's homepage](http://xmlstar.sourceforge.net/overview.php).
 
 <br>
 
