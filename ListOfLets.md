@@ -111,7 +111,7 @@ Resources: [Documentation on *movilizer.com*](http://movilizer.com/understand-it
 
 
 **Phablet:** 
-see entry _"Smartlet"_. 
+Portmanteau word of _"Phone"_ and _"Tablet"_;  A smartphone bigger than usual (display diagonal size between 5 and 7 inches), but smaller than a tablet; a small tablet computer that can be used for phone calls; see also _Smartlet_. 
 
 
 **Quizlet:**
@@ -122,7 +122,7 @@ Resources:
 
 
 **Smartlet:**
-Synonym for *Phablet*, i.e. a smartphone bigger than usual, but smaller than a tablet; term only used in German speaking countries? 
+Synonym for *Phablet*; Portmanteau word of _"Smartphone"_ and _"Tablet"_; term only used in German speaking countries? 
 
 
 **XMLStarlet:** 
