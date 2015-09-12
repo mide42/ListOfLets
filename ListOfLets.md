@@ -93,6 +93,10 @@ Component to be added to a dashboard. The term is used by several vendors.
 Resources:
 [Dashlets on *nagios.org*](http://exchange.nagios.org/directory/Addons/Dashlets), [Dashlets on *sugarcrm.com*](http://developer.sugarcrm.com/category/dashlets/).
 
+**Desklet:**
+Small programs embedded into the desktop of Linux distributions based on Ubuntu.
+Resources:
+[Some examples](http://cinnamon-spices.linuxmint.com/desklets)
 
 **Favlet:**
 See entry **Bookmarklet**.
