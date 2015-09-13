@@ -124,6 +124,11 @@ Resources:
 [Wikipedia article](http://en.wikipedia.org/wiki/Quizlet),
 [homepage *quizlet.com*](http://quizlet.com).
 
+**Screenlets:**
+Short form for *"Screen Applets"*; small applications to be shown on some desktops for Linux (e.g. GNOME or KDE), which are developed using the programming language Python. 
+Resources:
+[Project page on *launchpad.net*](https://launchpad.net/screenlets),
+[tutorial by IBM developerWorks](http://www.ibm.com/developerworks/library/l-script-linux-desktop-1/#resources).
 
 **Smartlet:**
 Synonym for *Phablet*; Portmanteau word of _"Smartphone"_ and _"Tablet"_; term only used in German speaking countries? 
