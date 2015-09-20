@@ -93,14 +93,19 @@ Component to be added to a dashboard. The term is used by several vendors.
 Resources:
 [Dashlets on *nagios.org*](http://exchange.nagios.org/directory/Addons/Dashlets), [Dashlets on *sugarcrm.com*](http://developer.sugarcrm.com/category/dashlets/).
 
+
 **Desklet:**
 Small programs embedded into the desktop of Linux distributions based on Ubuntu.
 Resources:
-[Some examples](http://cinnamon-spices.linuxmint.com/desklets)
+[Some examples](http://cinnamon-spices.linuxmint.com/desklets).
 
 **Favlet:**
 See entry **Bookmarklet**.
 
+**gDesklet:**
+Runtime environment for Desklets, based on GNOME. 
+Resources:
+[Site titled *"The unofficial gDesklets Desklet Archive"*](http://gdesklets.info/archive/), [Entry *"gDesklets"* on *openhub.net*](https://www.openhub.net/p/3619).
 
 **Maplet:**
 A *Maplet* is a *graphical user interface* written for the computer algebra system *Maple*.
