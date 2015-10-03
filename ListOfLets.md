@@ -103,7 +103,7 @@ Resources:
 See entry **Bookmarklet**.
 
 **gDesklet:**
-Runtime environment for Desklets, based on GNOME. 
+Runtime environment/frameworks for Desklets on GNOME, needs Python. 
 Resources:
 [Site titled *"The unofficial gDesklets Desklet Archive"*](http://gdesklets.info/archive/), [Entry *"gDesklets"* on *openhub.net*](https://www.openhub.net/p/3619).
 
