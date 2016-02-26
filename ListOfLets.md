@@ -22,23 +22,6 @@ A *Doclet* is a program that is used by the *JavaDoc* tool to generate custom do
 Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Doclet).
 
 
-**Droplets (AppleScript):**
-AppleScript program that has a special icon; the user can drag'n'drop a file or folder on this icon, so that the program starts processing the contents of this file.
-Resources:
-[Short video (about 1 minute) on *youtube.com*](https://www.youtube.com/watch?v=PIaDq5ZqE1g),
-[example Droplet for calculation of a file's SHA1 checksum on *macworld.com*](http://hints.macworld.com/article.php?story=2010060915020592).
-
-
-**Droplets (DigitalOcean):**
-Virtual machine operated in the cloud offered by the company DigitalOcean.
-Resources:
-[Tutorial on how to create a Droplet on *digitalocean.com*](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-digitalocean-droplet-virtual-server).
-
-**Droplets (Cloud Foundry):**
-*"Cloud Foundry"* is a *"Platform as a Service (PaaS)"* available under an open source license. A droplet is *"the unit of execution"* for Cloud Foundry.
-Resources: [Page titled *"Deploy an Application"* in the official documentation for Cloud Foundry](https://docs.cloudfoundry.org/devguide/deploy-apps/deploy-app.html#intro).
-
-
 **Midlet:**
 A *Midlet* is an application that runs on a mobile device (or other embedded devices) which supports *Java ME* (Java MicroEdition).
 Resources: 
@@ -74,6 +57,7 @@ Resources:
 [homepage *restlet.com*](http://restlet.com).
 <br>
 
+
 ## Non-Java Technologies
 
 **Bookmarklet:**
@@ -103,13 +87,34 @@ Small programs embedded into the desktop of Linux distributions based on Ubuntu.
 Resources:
 [Some examples](http://cinnamon-spices.linuxmint.com/desklets).
 
+
+**Droplets (AppleScript):**
+AppleScript program that has a special icon; the user can drag'n'drop a file or folder on this icon, so that the program starts processing the contents of this file.
+Resources:
+[Short video (about 1 minute) on *youtube.com*](https://www.youtube.com/watch?v=PIaDq5ZqE1g),
+[example Droplet for calculation of a file's SHA1 checksum on *macworld.com*](http://hints.macworld.com/article.php?story=2010060915020592).
+
+
+**Droplets (DigitalOcean):**
+Virtual machine operated in the cloud offered by the company DigitalOcean.
+Resources:
+[Tutorial on how to create a Droplet on *digitalocean.com*](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-digitalocean-droplet-virtual-server).
+
+
+**Droplets (Cloud Foundry):**
+*"Cloud Foundry"* is a *"Platform as a Service (PaaS)"* available under an open source license. A droplet is *"the unit of execution"* for Cloud Foundry.
+Resources: [Page titled *"Deploy an Application"* in the official documentation for Cloud Foundry](https://docs.cloudfoundry.org/devguide/deploy-apps/deploy-app.html#intro).
+
+
 **Favlet:**
 See entry **Bookmarklet**.
+
 
 **gDesklet:**
 Runtime environment/frameworks for Desklets on GNOME, needs Python. 
 Resources:
 [Site titled *"The unofficial gDesklets Desklet Archive"*](http://gdesklets.info/archive/), [Entry *"gDesklets"* on *openhub.net*](https://www.openhub.net/p/3619).
+
 
 **Maplet:**
 A *Maplet* is a *graphical user interface* written for the computer algebra system *Maple*.
@@ -133,11 +138,13 @@ Resources:
 [Wikipedia article](http://en.wikipedia.org/wiki/Quizlet),
 [homepage *quizlet.com*](http://quizlet.com).
 
+
 **Screenlets:**
 Short form for *"Screen Applets"*; small applications to be shown on some desktops for Linux (e.g. GNOME or KDE), which are developed using the programming language Python. 
 Resources:
 [Project page on *launchpad.net*](https://launchpad.net/screenlets),
 [tutorial by IBM developerWorks](http://www.ibm.com/developerworks/library/l-script-linux-desktop-1/#resources).
+
 
 **Smartlet:**
 Synonym for *Phablet*; Portmanteau word of _"Smartphone"_ and _"Tablet"_; term only used in German speaking countries? 
