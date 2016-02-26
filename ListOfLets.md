@@ -34,6 +34,10 @@ Virtual machine operated in the cloud offered by the company DigitalOcean.
 Resources:
 [Tutorial on how to create a Droplet on *digitalocean.com*](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-digitalocean-droplet-virtual-server).
 
+**Droplets (Cloud Foundry):**
+*"Cloud Foundry"* is a *"Platform as a Service (PaaS)"* available under an open source license. A droplet is *"the unit of execution"* for Cloud Foundry.
+Resources: [Page titled *"Deploy an Application"* in the official documentation for Cloud Foundry](https://docs.cloudfoundry.org/devguide/deploy-apps/deploy-app.html#intro).
+
 
 **Midlet:**
 A *Midlet* is an application that runs on a mobile device (or other embedded devices) which supports *Java ME* (Java MicroEdition).
