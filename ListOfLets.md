@@ -68,10 +68,11 @@ Resources:
 [bookmarklets.com](http://bookmarklets.com),
 [list of bookmarklets by Jesse Ruderman](https://www.squarefree.com/bookmarklets/).
 
+**Cmdlet:** 
+Short form for *Commandlet*. 
 
 **Commandlet:**
 A command for the *Windows PowerShell* by Microsoft.
-Short form: Cmdlet.
 Resources:
 [MSDN article *"Cmdlet Overview"*](https://msdn.microsoft.com/en-us/library/ms714395%28v=vs.85%29.aspx).
 
