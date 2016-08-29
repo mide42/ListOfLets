@@ -97,7 +97,7 @@ Resources:
 
 
 **Droplets (DigitalOcean):**
-Virtual machine instance in the cloud, an offering by the company DigitalOcean.
+Virtual server instance in the cloud offered by company *DigitalOcean*.
 Resources:
 [Tutorial on how to create a Droplet on *digitalocean.com*](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-digitalocean-droplet-virtual-server).
 
