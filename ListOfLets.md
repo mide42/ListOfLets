@@ -36,6 +36,13 @@ Resources:
 [article on the *Portlet* specification on *oracle.com*](http://www.oracle.com/technetwork/java/jsr286-141866.html).
 
 
+**Scriptlet:**
+A *Scriptlet* is a code fragment in a Java ServerServer Page (JSP), which is an HTML page with embedded Java coding.
+Resources:
+[Page titled *"JSP Scriptlets"* on *docs.oracle.com*](http://docs.oracle.com/javaee/5/tutorial/doc/bnaou.html),
+[page on *jsptut.com*](http://www.jsptut.com/scriptlets.jsp).
+
+
 **Servlet:** 
 A *Servlet* is a Java program that runs in *Java Servlet Container* like *Tomcat* and creates dynamic web content.
 Resources: 
