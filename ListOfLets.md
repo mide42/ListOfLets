@@ -39,8 +39,9 @@ Resources:
 **Scriptlet:**
 A *Scriptlet* is a code fragment in a Java ServerServer Page (JSP), which is an HTML page with embedded Java coding.
 Resources:
-[Page titled *"JSP Scriptlets"* on *docs.oracle.com*](http://docs.oracle.com/javaee/5/tutorial/doc/bnaou.html),
-[page on *jsptut.com*](http://www.jsptut.com/scriptlets.jsp).
+[Article titled *"JSP Scriptlets"* on *docs.oracle.com*](http://docs.oracle.com/javaee/5/tutorial/doc/bnaou.html),
+[article on *jsptut.com*](http://www.jsptut.com/scriptlets.jsp).
+The term *Scriptlet* is also used by Microsoft for a different type of component, see below.
 
 
 **Servlet:** 
@@ -153,6 +154,11 @@ Resources:
 [Project page on *launchpad.net*](https://launchpad.net/screenlets),
 [tutorial by IBM developerWorks](http://www.ibm.com/developerworks/library/l-script-linux-desktop-1/#resources).
 
+
+**Scriptlet:**
+A *Scriptlet* is a type of COM component, whereas COM stands for Microsoft's *Component Object Model*. Such an Scriptlet can contain HTML code andcode in a scripting language.
+Resources:
+[Article on *msdn.microsoft.com*](https://msdn.microsoft.com/en-us/library/office/aa189871(v=office.10).aspx).
 
 **Smartlet:**
 Synonym for *Phablet*; Portmanteau word of _"Smartphone"_ and _"Tablet"_; term only used in German speaking countries? 
