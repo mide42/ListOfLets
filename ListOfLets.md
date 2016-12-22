@@ -9,7 +9,7 @@ Some technologies listed here might be registered trademarks.
 
 **Applet:** 
 An *Applet* is a small Java program embedded in an HTML page.<br/>
-Resources: [the Wikipedia article](http://en.wikipedia.org/wiki/Applet).
+Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Applet), [tutorial page on Applets at *oracle.com*](https://docs.oracle.com/javase/tutorial/deployment/applet/).
 
 
 **Batchlet:**
