@@ -17,9 +17,16 @@ Resources:
 [API documentation of interface *javax.batch.api.Batchlet* on *oracle.com*](https://docs.oracle.com/javaee/7/api/javax/batch/api/Batchlet.html).
 
 
+**Codelet:**
+A *Codelet* is a Java class that performs a workflow step/task in the YAWL workflow framework.
+Resources: [Page *"Creating a codelet"* in YAWL tutorial](http://www.yaug.org/node/32),
+[API-Doc of YAWL's package *org.yawlfoundation.yawl.resourcing.codelets*](http://www.yawlfoundation.org/javadoc/yawl/org/yawlfoundation/yawl/resourcing/codelets/package-summary.html).
+
+
 **Doclet:**
 A *Doclet* is a program that is used by the *JavaDoc* tool to generate custom documentation output.
 Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Doclet).
+
 
 
 **Midlet:**
