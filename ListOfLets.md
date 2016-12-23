@@ -21,7 +21,7 @@ Resources:
 **Codelet:**
 A *Codelet* is a Java class that performs a workflow step/task in the YAWL workflow framework.<br/>
 Resources: [Page *"Creating a codelet"* in YAWL tutorial](http://www.yaug.org/node/32),
-[API-Doc of YAWL's package *org.yawlfoundation.yawl.resourcing.codelets*](http://www.yawlfoundation.org/javadoc/yawl/org/yawlfoundation/yawl/resourcing/codelets/package-summary.html).
+[API-Doc of YAWL's codelet package](http://www.yawlfoundation.org/javadoc/yawl/org/yawlfoundation/yawl/resourcing/codelets/package-summary.html).
 
 
 **Doclet:**
@@ -44,6 +44,14 @@ Resources:
 [article on the *Portlet* specification on *oracle.com*](http://www.oracle.com/technetwork/java/jsr286-141866.html).
 
 
+**Restlet:**
+*Restlet* is a framework for developing RESTFul Web-APIs, which is offered by a company with the same name.<br/>
+Resources: 
+[Wikipedia article](http://en.wikipedia.org/wiki/Restlet), 
+[Article on *javaword.com*](http://www.javaworld.com/article/2077958/soa/open-source-tools-rest-for-java-developers-restlet-for-the-weary.html),
+[homepage *restlet.com*](http://restlet.com).
+
+
 **Scriptlet:**
 A *Scriptlet* is a code fragment in a Java ServerServer Page (JSP), which is an HTML page with embedded Java coding.<br/>
 Resources:
@@ -64,13 +72,6 @@ A *Translet* is an XSLT stylesheet compiled into Java bytecode for faster execut
 XSLT stands for *"Extensible Stylesheet Language Transformation"* and is a language to describe how to transform one XML document into another XML document.<br/>
 Resources: [Wikipedia's article on XSLT](https://en.wikipedia.org/wiki/XSLT).
 
-
-**Restlet:**
-*Restlet* is a framework for developing RESTFul Web-APIs, which is offered by a company with the same name.<br/>
-Resources: 
-[Wikipedia article](http://en.wikipedia.org/wiki/Restlet), 
-[Article on *javaword.com*](http://www.javaworld.com/article/2077958/soa/open-source-tools-rest-for-java-developers-restlet-for-the-weary.html),
-[homepage *restlet.com*](http://restlet.com).
 <br>
 
 
