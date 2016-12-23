@@ -29,7 +29,6 @@ A *Doclet* is a program that is used by the *JavaDoc* tool to generate custom do
 Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Doclet).
 
 
-
 **Midlet:**
 A *Midlet* is an application that runs on a mobile device (or other embedded devices) which supports *Java ME* (Java MicroEdition).<br/>
 Resources: 
@@ -53,7 +52,7 @@ Resources:
 
 
 **Scriptlet:**
-A *Scriptlet* is a code fragment in a Java ServerServer Page (JSP), which is an HTML page with embedded Java coding.<br/>
+A *Scriptlet* is a code fragment in a *Java Server Page (JSP)*, which is an HTML page with embedded Java coding.<br/>
 Resources:
 [Article titled *"JSP Scriptlets"* on *docs.oracle.com*](http://docs.oracle.com/javaee/5/tutorial/doc/bnaou.html),
 [article on *jsptut.com*](http://www.jsptut.com/scriptlets.jsp).
@@ -71,6 +70,11 @@ Resources:
 A *Translet* is an XSLT stylesheet compiled into Java bytecode for faster execution, see [Xalan's XSLTC](http://xalan.apache.org/old/xalan-j/xsltc_usage.html#compile) .
 XSLT stands for *"Extensible Stylesheet Language Transformation"* and is a language to describe how to transform one XML document into another XML document.<br/>
 Resources: [Wikipedia's article on XSLT](https://en.wikipedia.org/wiki/XSLT).
+
+
+**Worklet:**
+In the terminology of the YAWL workflow engine a worklet is *"\[a\] (usually) small, self-contained, complete process definition which is designed to be invoked as a substitute for one specific task in a larger, composite process."* ([entry in  dictionary of research definitions on *igi-global.com*](http://www.igi-global.com/dictionary/worklet/32806))<br/>
+Resources: [The Worklet Custom Service for YAWL. Installation and User Manual (PDF file)](http://yawlfoundation.org/yawldocs/Worklet_Man.pdf), [API-Doc of YAWL's worklet package](http://www.yawlfoundation.org/javadoc/yawl/org/yawlfoundation/yawl/worklet/package-summary.html).
 
 <br>
 
