@@ -173,6 +173,7 @@ A *Scriptlet* is a type of COM component, whereas COM stands for Microsoft's *Co
 Resources:
 [Article on *msdn.microsoft.com*](https://msdn.microsoft.com/en-us/library/office/aa189871(v=office.10).aspx).
 
+
 **Smartlet:**
 Synonym for *Phablet*; Portmanteau word of _"Smartphone"_ and _"Tablet"_; term only used in German speaking countries? 
 
@@ -181,6 +182,10 @@ Synonym for *Phablet*; Portmanteau word of _"Smartphone"_ and _"Tablet"_; term o
 Open source project providing command line tools for processing XML documents on several operating systems (e.g. Linux or Windows).<br/> 
 Resources: [Overview article on the project's homepage](http://xmlstar.sourceforge.net/overview.php).
 
+
+**Zimlet:**
+Plug-in for the *Zimbra Collaboration Suite*.<br/>
+Resources: [Featured Zimlet Showcase](https://zimbra.org/extend/)
 <br>
 
 
