@@ -185,7 +185,7 @@ Resources: [Overview article on the project's homepage](http://xmlstar.sourcefor
 
 **Zimlet:**
 Plug-in for the *Zimbra Collaboration Suite*.<br/>
-Resources: [Featured Zimlet Showcase](https://zimbra.org/extend/)
+Resources: [Featured Zimlet Showcase](https://zimbra.org/extend/).
 <br>
 
 
