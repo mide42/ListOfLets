@@ -8,8 +8,9 @@ Some technologies listed here might be registered trademarks.
 ## Java Technologies
 
 **Applet:** 
-An *Applet* is a small Java program embedded in an HTML page.<br/>
-Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Applet), [tutorial page on Applets at *oracle.com*](https://docs.oracle.com/javase/tutorial/deployment/applet/).
+An *Applet* is a small Java program embedded in an HTML document (web page).<br/>
+Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Applet), [tutorial page on Applets at *oracle.com*](https://docs.oracle.com/javase/tutorial/deployment/applet/).<br/>
+The term *Applet* is also used by *IFTTT*, see below.
 
 
 **Batchlet:**
@@ -55,7 +56,7 @@ Resources:
 A *Scriptlet* is a code fragment in a *Java Server Page (JSP)*, which is an HTML page with embedded Java coding.<br/>
 Resources:
 [Article titled *"JSP Scriptlets"* on *docs.oracle.com*](http://docs.oracle.com/javaee/5/tutorial/doc/bnaou.html),
-[article on *jsptut.com*](http://www.jsptut.com/scriptlets.jsp).
+[article on *jsptut.com*](http://www.jsptut.com/scriptlets.jsp).<br/>
 The term *Scriptlet* is also used by Microsoft for a different type of component, see below.
 
 
@@ -81,6 +82,13 @@ Resources: [The Worklet Custom Service for YAWL. Installation and User Manual (P
 
 ## Non-Java Technologies
 
+**Applet:**
+IFTTT ("If this then that") is an online service, which allows liningk different web services together based on conditions. A configuration of such a "chain of services" is called *Applet*.<br/>
+Ressources:
+[Wikipedia article](https://en.wikipedia.org/wiki/IFTTT),
+[blog posting on how to build an Applet on *ifttt.com*](https://ifttt.com/blog/2017/05/how-to-build-an-applet).
+
+
 **Bookmarklet:**
 Small makro written in JavaScript and saved as browser bookmark.
 Synonym: Favlet.<br/>
@@ -89,8 +97,10 @@ Resources:
 [bookmarklets.com](http://bookmarklets.com),
 [list of bookmarklets by Jesse Ruderman](https://www.squarefree.com/bookmarklets/).
 
+
 **Cmdlet:** 
 Short form for *Commandlet*. 
+
 
 **Commandlet:**
 A command for the *Windows PowerShell* by Microsoft.<br/>
@@ -187,8 +197,3 @@ Resources: [Overview article on the project's homepage](http://xmlstar.sourcefor
 Plug-in for the *Zimbra Collaboration Suite*.<br/>
 Resources: [Featured Zimlet Showcase](https://zimbra.org/extend/).
 <br>
-
-
-
-
-
