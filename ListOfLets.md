@@ -148,6 +148,12 @@ Resources:
 [Site titled *"The unofficial gDesklets Desklet Archive"*](http://gdesklets.info/archive/), [Entry *"gDesklets"* on *openhub.net*](https://www.openhub.net/p/3619).
 
 
+**Hacklet:**
+Projects for makers on *hackaday.com*.<br/>
+Resources:
+[Series of articles tagged "hacklet"](https://hackaday.com/tag/hacklet/)
+
+
 **Maplet:**
 A *Maplet* is a *graphical user interface* written for the computer algebra system *Maple*.<br/>
 Resources:
