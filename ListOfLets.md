@@ -194,6 +194,10 @@ Resources:
 Synonym for *Phablet*; Portmanteau word of _"Smartphone"_ and _"Tablet"_; term only used in German speaking countries? 
 
 
+**Viewlet:**
+User Interface Component displayed in the sidebar of the source code editor *Visual Studio Code* by Microsoft.
+
+
 **XMLStarlet:** 
 Open source project providing command line tools for processing XML documents on several operating systems (e.g. Linux or Windows).<br/> 
 Resources: [Overview article on the project's homepage](http://xmlstar.sourceforge.net/overview.php).
