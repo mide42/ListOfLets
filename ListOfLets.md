@@ -194,8 +194,14 @@ Resources:
 Synonym for *Phablet*; Portmanteau word of _"Smartphone"_ and _"Tablet"_; term only used in German speaking countries? 
 
 
-**Viewlet:**
+**Viewlet (Microsoft):**
 User Interface Component displayed in the sidebar of the source code editor *Visual Studio Code* by Microsoft.
+
+
+**Viewlet (Plone):**
+Part of a webpage rendered by the Content Management system *Plone*.<br/>
+Resources: 
+[Page from documentation on Plone](https://docs.plone.org/develop/plone/views/viewlets.html)
 
 
 **XMLStarlet:** 
