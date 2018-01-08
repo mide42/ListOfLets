@@ -99,11 +99,11 @@ Resources:
 
 
 **Cmdlet:** 
-Short form for *Commandlet*. 
+Short form for PowerShell's *Commandlet*. 
 
 
 **Commandlet:**
-A command for the *Windows PowerShell* by Microsoft.<br/>
+A command for the *Windows PowerShell* by Microsoft, e.g. `Remove-PrintJob` or `Stop-Process`.<br/>
 Resources:
 [MSDN article *"Cmdlet Overview"*](https://msdn.microsoft.com/en-us/library/ms714395%28v=vs.85%29.aspx).
 
