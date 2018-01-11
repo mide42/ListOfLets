@@ -151,7 +151,13 @@ Resources:
 **Hacklet:**
 Projects for makers on *hackaday.com*.<br/>
 Resources:
-[Series of articles tagged "hacklet"](https://hackaday.com/tag/hacklet/)
+[Series of articles tagged "hacklet"](https://hackaday.com/tag/hacklet/).
+
+
+**Kubelets:**
+Software agent that runs on each node (real or virtual machine) of a Kubernetes cluster.<br/>
+Resources: 
+[Page "kubelet" in "Reference Documentation" auf kubernetes.io](https://kubernetes.io/docs/reference/generated/kubelet/).
 
 
 **Maplet:**
