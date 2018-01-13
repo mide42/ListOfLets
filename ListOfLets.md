@@ -157,7 +157,7 @@ Resources:
 **Kubelets:**
 Software agent that runs on each node (real or virtual machine) of a Kubernetes cluster.<br/>
 Resources: 
-[Page "kubelet" in "Reference Documentation" on *kubernetes.io*](https://kubernetes.io/docs/reference/generated/kubelet/).
+[Page *"kubelet"* in *"Reference Documentation"* on *kubernetes.io*](https://kubernetes.io/docs/reference/generated/kubelet/).
 
 
 **Maplet:**
