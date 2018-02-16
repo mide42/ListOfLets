@@ -83,7 +83,7 @@ Resources: [The Worklet Custom Service for YAWL. Installation and User Manual (P
 ## Non-Java Technologies
 
 **Applet:**
-IFTTT ("If this then that") is an online service, which allows liningk different web services together based on conditions. A configuration of such a "chain of services" is called *Applet*.<br/>
+IFTTT (*"If this then that"*) is an online service, which allows liningk different web services together based on conditions. A configuration of such a "chain of services" is called *Applet*.<br/>
 Ressources:
 [Wikipedia article](https://en.wikipedia.org/wiki/IFTTT),
 [blog article on how to build an Applet on *ifttt.com*](https://ifttt.com/blog/2017/05/how-to-build-an-applet).
