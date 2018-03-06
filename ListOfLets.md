@@ -74,7 +74,7 @@ Resources: [Wikipedia's article on XSLT](https://en.wikipedia.org/wiki/XSLT).
 
 
 **Worklet:**
-In the terminology of the YAWL workflow engine a worklet is *"\[a\] (usually) small, self-contained, complete process definition which is designed to be invoked as a substitute for one specific task in a larger, composite process."* ([entry in  dictionary of research definitions on *igi-global.com*](http://www.igi-global.com/dictionary/worklet/32806))<br/>
+In the terminology of the YAWL workflow engine a worklet is *"\[a\] (usually) small, self-contained, complete process definition which is designed to be invoked as a substitute for one specific task in a larger, composite process."* ([entry in  dictionary of research definitions on *igi-global.com*](http://www.igi-global.com/dictionary/worklet/32806)).<br/>
 Resources: [The Worklet Custom Service for YAWL. Installation and User Manual (PDF file)](http://yawlfoundation.org/yawldocs/Worklet_Man.pdf), [API-Doc of YAWL's worklet package](http://www.yawlfoundation.org/javadoc/yawl/org/yawlfoundation/yawl/worklet/package-summary.html).
 
 <br>
@@ -87,6 +87,13 @@ IFTTT (*"If this then that"*) is an online service, which allows liningk differe
 Ressources:
 [Wikipedia article](https://en.wikipedia.org/wiki/IFTTT),
 [blog article on how to build an Applet on *ifttt.com*](https://ifttt.com/blog/2017/05/how-to-build-an-applet).
+
+
+**Bitmarklet:**
+A special *Bookmarklet* (see entry below) offered by the bookmarking service *bitly.com*.<br/>
+Ressources:
+[Page *"Does Bitly have a browser plugin?"* on *bitly.com*](https://support.bitly.com/hc/en-us/articles/231245868-Does-Bitly-have-a-browser-plugin-),
+[Article *"The Most Useful Bookmarklets to Enhance Your Browsing Experience"* on *howtogeek.com*](https://www.howtogeek.com/125846/the-most-useful-bookmarklets-to-enhance-your-browsing-experience/).
 
 
 **Bookmarklet:**
