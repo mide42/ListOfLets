@@ -67,6 +67,13 @@ Resources:
 [API documentation of class *javax.servlet.http.HttpServlet* on *oracle.com*](http://docs.oracle.com/cd/E17802_01/products/products/servlet/2.3/javadoc/javax/servlet/http/HttpServlet.html).
 
 
+**Tasklet:**
+Tasklet is a single object in [Spring's batch processing](http://spring.io/projects/spring-batch).<br>
+Resources: 
+[API doc of interface *Tasklet*](https://docs.spring.io/spring-batch/trunk/apidocs/org/springframework/batch/core/step/tasklet/Tasklet.html),
+[tutorial on how to use Tasklets](https://grokonez.com/spring-framework/spring-batch/use-spring-batch-tasklet).
+
+
 **Translet:**
 A *Translet* is an XSLT stylesheet compiled into Java bytecode for faster execution, see [Xalan's XSLTC](http://xalan.apache.org/old/xalan-j/xsltc_usage.html#compile) .
 XSLT stands for *"Extensible Stylesheet Language Transformation"* and is a language to describe how to transform one XML document into another XML document.<br/>
