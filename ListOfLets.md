@@ -112,14 +112,11 @@ Resources:
 [list of bookmarklets by Jesse Ruderman](https://www.squarefree.com/bookmarklets/).
 
 
-**Cmdlet:** 
-Short form for PowerShell's *Commandlet*. 
-
-
-**Commandlet:**
+**Commandlet (Cmdlet):**
 A command for the *Windows PowerShell* by Microsoft, e.g. `Remove-PrintJob` or `Stop-Process`.<br>
 Resources:
-[MSDN article *"Cmdlet Overview"*](https://msdn.microsoft.com/en-us/library/ms714395%28v=vs.85%29.aspx).
+[MSDN article *"Cmdlet Overview"*](https://docs.microsoft.com/en-us/powershell/developer/cmdlet/cmdlet-overview),
+[article on *howtogeek.com*](https://www.howtogeek.com/114344/5-cmdlets-to-get-you-started-with-powershell/).
 
 
 **Dashlet:**
@@ -184,6 +181,11 @@ Resources:
 *Movelets* are XML files for the *[Movilizer](http://movilizer.com) framework* for mobile enterprise apps. 
 They typically contain definitions of business logic, screens and relevant data for business processes.<br>
 Resources: [Documentation on *movilizer.com*](http://movilizer.com/understand-it/?L=1).
+
+
+**Pagelet:**
+Component to be embedded in an HTML page.<br>
+Resources: [Entry on the *theefreedictionary.com*](http://encyclopedia2.thefreedictionary.com/pagelet), [Modul "Pagelet" for the BigPipe framework on *npmjs.com*](https://www.npmjs.com/package/pagelet).
 
 
 **Phablet:** 
