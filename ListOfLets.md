@@ -183,6 +183,11 @@ They typically contain definitions of business logic, screens and relevant data 
 Resources: [Documentation on *movilizer.com*](http://movilizer.com/understand-it/?L=1).
 
 
+**Pagelet:**
+Component to be embedded in an HTML page.<br>
+Resources: [Entry on the *theefreedictionary.com*](http://encyclopedia2.thefreedictionary.com/pagelet)
+
+
 **Phablet:** 
 Portmanteau word of _"Phone"_ and _"Tablet"_;  A smartphone bigger than usual (display diagonal size between 5 and 7 inches), but smaller than a tablet; a small tablet computer that can be used for phone calls; see also _Smartlet_. 
 
