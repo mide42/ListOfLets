@@ -185,7 +185,7 @@ Resources: [Documentation on *movilizer.com*](http://movilizer.com/understand-it
 
 **Pagelet:**
 Component to be embedded in an HTML page.<br>
-Resources: [Entry on the *theefreedictionary.com*](http://encyclopedia2.thefreedictionary.com/pagelet)
+Resources: [Entry on the *theefreedictionary.com*](http://encyclopedia2.thefreedictionary.com/pagelet), [Modul "Pagelet" for the BigPipe framework on *npmjs.com*](https://www.npmjs.com/package/pagelet).
 
 
 **Phablet:** 
