@@ -119,6 +119,12 @@ Resources:
 [article on *howtogeek.com*](https://www.howtogeek.com/114344/5-cmdlets-to-get-you-started-with-powershell/).
 
 
+**Chiplet:**
+Approach for CPU design (i.e. this is for hardware, not software) based on the idea of combining several building blocks to obtain a (specialized) CPU.
+Resources:
+[Article *"To keep pace with Moore's law, chipmakers turn to 'chiplets'"* on *wired.com*](https://www.wired.com/story/keep-pace-moores-law-chipmakers-turn-chiplets/), [article "Intel unveils Foveros 3D chip stacking and new 10nm 'chiplets'" on *theverge.com*](https://www.theverge.com/2018/12/12/18137401/intel-foveros-3d-chip-stacking-10nm-roadmap-future) .
+
+
 **Dashlet:**
 Component to be added to a dashboard. The term is used by several vendors.<br>
 Resources:
