@@ -103,6 +103,12 @@ Ressources:
 [Article *"The Most Useful Bookmarklets to Enhance Your Browsing Experience"* on *howtogeek.com*](https://www.howtogeek.com/125846/the-most-useful-bookmarklets-to-enhance-your-browsing-experience/).
 
 
+**Bricklet:**
+Hardware module for the hardware platform *Tinkerforge*.<br>
+Ressources:
+[List of bricklets on *tinkerforge.com*](https://www.tinkerforge.com/en/doc/Hardware/Bricklets/Bricklets.html), [blog article announcing new bricklets](https://www.tinkerforge.com/en/blog/16-new-bricklets/).
+
+
 **Bookmarklet:**
 Small makro written in JavaScript and saved as browser bookmark.
 Synonym: Favlet.<br>
