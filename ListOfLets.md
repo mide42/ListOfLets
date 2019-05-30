@@ -29,6 +29,7 @@ Resources: [Page *"Creating a codelet"* in YAWL tutorial](http://www.yaug.org/no
 A *Doclet* is a program that is used by the *JavaDoc* tool to generate custom documentation output.<br>
 Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Doclet).
 
+**Facelet:**
 
 **Midlet:**
 A *Midlet* is an application that runs on a mobile device (or other embedded devices) which supports *Java ME* (Java MicroEdition).<br>
@@ -66,6 +67,7 @@ Resources:
 [Wikipedia article](http://en.wikipedia.org/wiki/Java_servlet),
 [API documentation of class *javax.servlet.http.HttpServlet* on *oracle.com*](http://docs.oracle.com/cd/E17802_01/products/products/servlet/2.3/javadoc/javax/servlet/http/HttpServlet.html).
 
+**Taglet:**
 
 **Tasklet:**
 Tasklet is a single object in [Spring's batch processing](http://spring.io/projects/spring-batch).<br>
@@ -101,6 +103,12 @@ A special *Bookmarklet* (see entry below) offered by the bookmarking service *bi
 Ressources:
 [Page *"Does Bitly have a browser plugin?"* on *bitly.com*](https://support.bitly.com/hc/en-us/articles/231245868-Does-Bitly-have-a-browser-plugin-),
 [Article *"The Most Useful Bookmarklets to Enhance Your Browsing Experience"* on *howtogeek.com*](https://www.howtogeek.com/125846/the-most-useful-bookmarklets-to-enhance-your-browsing-experience/).
+
+
+**Bricklet:**
+Hardware module for the hardware platform *Tinkerforge*.<br>
+Ressources:
+[List of bricklets on *tinkerforge.com*](https://www.tinkerforge.com/en/doc/Hardware/Bricklets/Bricklets.html), [blog article announcing new bricklets](https://www.tinkerforge.com/en/blog/16-new-bricklets/).
 
 
 **Bookmarklet:**
