@@ -68,6 +68,10 @@ Resources:
 [API documentation of class *javax.servlet.http.HttpServlet* on *oracle.com*](http://docs.oracle.com/cd/E17802_01/products/products/servlet/2.3/javadoc/javax/servlet/http/HttpServlet.html).
 
 **Taglet:**
+A **Taglet** is a implementation of a custom JavaDoc annotation like *@todo*.<br>
+Resources:
+[Documentation by Oracle](https://docs.oracle.com/javase/7/docs/technotes/guides/javadoc/taglet/overview.html), 
+[article *"Create a Taglet to document database access"*](https://www.rgagnon.com/javadetails/java-0473.html).
 
 **Tasklet:**
 Tasklet is a single object in [Spring's batch processing](http://spring.io/projects/spring-batch).<br>
