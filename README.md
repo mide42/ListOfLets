@@ -9,6 +9,9 @@ This repository contains only markdown files (for formatted text), but no source
 Referenced articles (e.g. Wikipedia articles) have to be in English, of course.
 
 <br>
+
 Public URL for viewing main document as rendered HTML: https://github.com/mide42/ListOfLets/blob/master/ListOfLets.md
+
+<br>
 
 Short URL: http://tinyurl.com/n4huhsv
