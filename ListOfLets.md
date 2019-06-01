@@ -29,7 +29,11 @@ Resources: [Page *"Creating a codelet"* in YAWL tutorial](http://www.yaug.org/no
 A *Doclet* is a program that is used by the *JavaDoc* tool to generate custom documentation output.<br>
 Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Doclet).
 
+
 **Facelet:**
+Web template for *Java Server Pages (JSP)*.<br>
+Resources: [Chapter *"Introduction to Facelets"* in *"The Java EE 6 Tutorial"* on *oracle.com*](https://docs.oracle.com/javaee/6/tutorial/doc/giepx.html), [Wikipedia article](https://en.wikipedia.org/wiki/JavaServer_Faces).
+
 
 **Midlet:**
 A *Midlet* is an application that runs on a mobile device (or other embedded devices) which supports *Java ME* (Java MicroEdition).<br>
