@@ -47,6 +47,11 @@ This page contains a list of various *Query Languages* with names ending on *"QL
 [Reference 1](https://www.confluent.io/product/ksql/), [Reference 2](https://www.zdnet.com/article/ksql-kafka-gets-sql/)
 <br><br>
 
+**PartiQL: SQL-compatible Query Language by Amazon**<br>
+[Reference 1](https://partiql.org/), 
+[Reference 2](https://aws.amazon.com/de/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/)
+<br><br>
+
 
 **PromQL: Prometheus Query Language**<br>
 [Reference 1](https://medium.com/@amimahloof/kubernetes-promql-prometheus-cpu-aggregation-walkthrough-2c6fd2f941eb), 
