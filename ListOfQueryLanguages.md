@@ -17,7 +17,7 @@ This page contains a list of various *Query Languages* with names ending on *"QL
 
 
 **GraphQL**<br>
-[Reference 1](http://graphql.org/learn/)
+[Reference 1](http://graphql.org/learn/), [Reference 2](https://www.lynda.com/JavaScript-tutorials/Learning-GraphQL/574714-2.html)
 <br><br>
 
 
