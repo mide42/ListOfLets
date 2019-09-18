@@ -15,6 +15,9 @@ This page contains a list of various *Query Languages* with names ending on *"QL
 [Reference 1](http://www.oldschooltechie.com/blog/2009/11/23/cmis-query-language)
 <br><br>
 
+**GQL**<br>
+[Reference 1](https://gql.today/), [Reference 2](https://www.gqlstandards.org/)
+<br><br>
 
 **GraphQL**<br>
 [Reference 1](http://graphql.org/learn/), [Reference 2](https://www.lynda.com/JavaScript-tutorials/Learning-GraphQL/574714-2.html)
