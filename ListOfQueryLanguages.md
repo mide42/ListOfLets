@@ -16,6 +16,11 @@ This page contains a list of various *Query Languages* with names ending on *"QL
 <br><br>
 
 
+**GQL**<br>
+[Reference 1](https://gql.today/), [Reference 2](https://www.gqlstandards.org/)
+<br><br>
+
+
 **GraphQL**<br>
 [Reference 1](http://graphql.org/learn/), [Reference 2](https://www.lynda.com/JavaScript-tutorials/Learning-GraphQL/574714-2.html)
 <br><br>
@@ -47,9 +52,15 @@ This page contains a list of various *Query Languages* with names ending on *"QL
 [Reference 1](https://www.confluent.io/product/ksql/), [Reference 2](https://www.zdnet.com/article/ksql-kafka-gets-sql/)
 <br><br>
 
+
 **PartiQL: SQL-compatible Query Language by Amazon**<br>
 [Reference 1](https://partiql.org/), 
 [Reference 2](https://aws.amazon.com/de/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/)
+<br><br>
+
+
+**PGQL**<br>
+[Reference 1](http://pgql-lang.org/), [Reference 2](https://dl.acm.org/citation.cfm?id=2960421)
 <br><br>
 
 
