@@ -1,13 +1,16 @@
-# List Of *"-Lets"*
+# List Of *"-Lets"* #
 
 This document contains a list of names of *software technologies* or *software components* ending with *"-let"*.
 <br>
+
 Some technologies listed here might be registered trademarks.
 <br>
 
-## Java Technologies
+----
 
-**Applet:** 
+## Java Technologies ##
+
+**Applet:**
 An *Applet* is a small Java program embedded in an HTML document (web page).<br>
 Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Applet), [tutorial page on Applets at *oracle.com*](https://docs.oracle.com/javase/tutorial/deployment/applet/).<br>
 The term *Applet* is also used by *IFTTT*, see below.
@@ -15,7 +18,7 @@ The term *Applet* is also used by *IFTTT*, see below.
 
 **Batchlet:**
 A *Batchlet* is a step for a Java program that runs as batch job, i.e. for background processing.<br>
-Resources: 
+Resources:
 [API documentation of interface *javax.batch.api.Batchlet* on *oracle.com*](https://docs.oracle.com/javaee/7/api/javax/batch/api/Batchlet.html).
 
 
@@ -37,7 +40,7 @@ Resources: [Chapter *"Introduction to Facelets"* in *"The Java EE 6 Tutorial"* o
 
 **Midlet:**
 A *Midlet* is an application that runs on a mobile device (or other embedded devices) which supports *Java ME* (Java MicroEdition).<br>
-Resources: 
+Resources:
 [Wikipedia article](http://en.wikipedia.org/wiki/MIDlet),
 [API documentation of class *javax.microedition.midlet.MIDlet* on *oracle.com*](http://docs.oracle.com/javame/config/cldc/ref-impl/midp2.0/jsr118/javax/microedition/midlet/MIDlet.html).
 
@@ -51,8 +54,8 @@ Resources:
 
 **Restlet:**
 *Restlet* is a framework for developing RESTFul Web-APIs, which is offered by a company with the same name.<br>
-Resources: 
-[Wikipedia article](http://en.wikipedia.org/wiki/Restlet), 
+Resources:
+[Wikipedia article](http://en.wikipedia.org/wiki/Restlet),
 [Article on *javaword.com*](http://www.javaworld.com/article/2077958/soa/open-source-tools-rest-for-java-developers-restlet-for-the-weary.html),
 [homepage *restlet.com*](http://restlet.com).
 
@@ -65,21 +68,21 @@ Resources:
 The term *Scriptlet* is also used by Microsoft for a different type of component, see below.
 
 
-**Servlet:** 
+**Servlet:**
 A *Servlet* is a Java program that runs in *Java Servlet Container* like *Tomcat* and creates dynamic web content.<br>
-Resources: 
+Resources:
 [Wikipedia article](http://en.wikipedia.org/wiki/Java_servlet),
 [API documentation of class *javax.servlet.http.HttpServlet* on *oracle.com*](http://docs.oracle.com/cd/E17802_01/products/products/servlet/2.3/javadoc/javax/servlet/http/HttpServlet.html).
 
 **Taglet:**
 A **Taglet** is a implementation of a custom JavaDoc annotation like *@todo*.<br>
 Resources:
-[Documentation by Oracle](https://docs.oracle.com/javase/7/docs/technotes/guides/javadoc/taglet/overview.html), 
+[Documentation by Oracle](https://docs.oracle.com/javase/7/docs/technotes/guides/javadoc/taglet/overview.html),
 [article *"Create a Taglet to document database access"*](https://www.rgagnon.com/javadetails/java-0473.html).
 
 **Tasklet:**
 Tasklet is a single object in [Spring's batch processing](http://spring.io/projects/spring-batch).<br>
-Resources: 
+Resources:
 [API doc of interface *Tasklet*](https://docs.spring.io/spring-batch/trunk/apidocs/org/springframework/batch/core/step/tasklet/Tasklet.html),
 [tutorial on how to use Tasklets](https://grokonez.com/spring-framework/spring-batch/use-spring-batch-tasklet).
 
@@ -96,8 +99,9 @@ Resources: [The Worklet Custom Service for YAWL. Installation and User Manual (P
 
 <br>
 
+----
 
-## Non-Java Technologies
+## Non-Java Technologies ##
 
 **Applet:**
 IFTTT (*"If this then that"*) is an online service, which allows linking different web services together based on conditions. A configuration of such a "chain of services" is called *Applet*.<br>
@@ -122,8 +126,8 @@ Ressources:
 **Bookmarklet:**
 Small makro written in JavaScript and saved as browser bookmark.
 Synonym: Favlet.<br>
-Resources: 
-[Wikipedia article](http://en.wikipedia.org/wiki/Bookmarklet), 
+Resources:
+[Wikipedia article](http://en.wikipedia.org/wiki/Bookmarklet),
 [bookmarklets.com](http://bookmarklets.com),
 [list of bookmarklets by Jesse Ruderman](https://www.squarefree.com/bookmarklets/).
 
@@ -189,7 +193,7 @@ Resources:
 
 **Kubelets:**
 Software agent that runs on each node (real or virtual machine) of a Kubernetes cluster.<br>
-Resources: 
+Resources:
 [Page *"kubelet"* in *"Reference Documentation"* on *kubernetes.io*](https://kubernetes.io/docs/reference/generated/kubelet/).
 
 
@@ -200,7 +204,7 @@ Resources:
 
 
 **Movelets:**
-*Movelets* are XML files for the *[Movilizer](http://movilizer.com) framework* for mobile enterprise apps. 
+*Movelets* are XML files for the *[Movilizer](http://movilizer.com) framework* for mobile enterprise apps.
 They typically contain definitions of business logic, screens and relevant data for business processes.<br>
 Resources: [Documentation on *movilizer.com*](http://movilizer.com/understand-it/?L=1).
 
@@ -210,19 +214,19 @@ Component to be embedded in an HTML page.<br>
 Resources: [Entry on the *theefreedictionary.com*](http://encyclopedia2.thefreedictionary.com/pagelet), [Modul "Pagelet" for the BigPipe framework on *npmjs.com*](https://www.npmjs.com/package/pagelet).
 
 
-**Phablet:** 
-Portmanteau word of _"Phone"_ and _"Tablet"_;  A smartphone bigger than usual (display diagonal size between 5 and 7 inches), but smaller than a tablet; a small tablet computer that can be used for phone calls; see also _Smartlet_. 
+**Phablet:**
+Portmanteau word of _"Phone"_ and _"Tablet"_;  A smartphone bigger than usual (display diagonal size between 5 and 7 inches), but smaller than a tablet; a small tablet computer that can be used for phone calls; see also _Smartlet_.
 
 
 **Quizlet:**
-Online service for flashcards, e.g. for learning vocabulary.<br> 
-Resources: 
+Online service for flashcards, e.g. for learning vocabulary.<br>
+Resources:
 [Wikipedia article](http://en.wikipedia.org/wiki/Quizlet),
 [homepage *quizlet.com*](http://quizlet.com).
 
 
 **Screenlets:**
-Short form for *"Screen Applets"*; small applications to be shown on some desktops for Linux (e.g. GNOME or KDE), which are developed using the programming language Python.<br> 
+Short form for *"Screen Applets"*; small applications to be shown on some desktops for Linux (e.g. GNOME or KDE), which are developed using the programming language Python.<br>
 Resources:
 [Project page on *launchpad.net*](https://launchpad.net/screenlets),
 [tutorial by IBM developerWorks](http://www.ibm.com/developerworks/library/l-script-linux-desktop-1/#resources).
@@ -235,7 +239,7 @@ Resources:
 
 
 **Smartlet:**
-Synonym for *Phablet*; Portmanteau word of _"Smartphone"_ and _"Tablet"_; term only used in German speaking countries? 
+Synonym for *Phablet*; Portmanteau word of _"Smartphone"_ and _"Tablet"_; term only used in German speaking countries?
 
 
 **Viewlet (Microsoft):**
@@ -244,12 +248,12 @@ User Interface Component displayed in the sidebar of the source code editor *Vis
 
 **Viewlet (Plone):**
 Part of a webpage rendered by the Content Management system *Plone*.<br/>
-Resources: 
+Resources:
 [Page from documentation on Plone](https://docs.plone.org/develop/plone/views/viewlets.html)
 
 
-**XMLStarlet:** 
-Open source project providing command line tools for processing XML documents on several operating systems (e.g. Linux or Windows).<br/> 
+**XMLStarlet:**
+Open source project providing command line tools for processing XML documents on several operating systems (e.g. Linux or Windows).<br/>
 Resources: [Overview article on the project's homepage](http://xmlstar.sourceforge.net/overview.php).
 
 
