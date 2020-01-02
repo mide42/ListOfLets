@@ -35,11 +35,13 @@ This page contains a list of various *Query Languages* with names ending on *"QL
 [Reference 1](http://docs.jboss.org/hibernate/orm/5.3/userguide/html_single/Hibernate_User_Guide.html#hql)
 <br><br>
 
+
 **InfluxQL (Influx Query Language)**<br>
 [InfluxDB](https://www.influxdata.com/products/influxdb-overview/) is a time series database.<br>
 [Reference 1](https://docs.influxdata.com/influxdb/v1.7/query_language/spec/), 
-[Reference 2](https://dzone.com/articles/how-to-query-influxdb)
+[Reference 2](https://code-examples.net/en/docs/influxdata/influxdb/v1.3/query_language/spec/index)
 <br><br>
+
 
 **JPQL: JPA Query Language**<br>
 "JPA" stands for [*Java Persistence API*](https://www.oracle.com/technetwork/java/javaee/tech/persistence-jsp-140049.html).<br>
