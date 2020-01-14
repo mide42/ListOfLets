@@ -209,6 +209,11 @@ They typically contain definitions of business logic, screens and relevant data 
 Resources: [Documentation on *movilizer.com*](http://movilizer.com/understand-it/?L=1).
 
 
+**Padlet:**
+Service/app providing a digital canavas.<br>
+Resources: [Homepage](https://padlet.com), [app on Google Play](https://play.google.com/store/apps/details?id=com.wallwisher.Padlet), [app on Microsoft Store](https://www.microsoft.com/en-us/p/padlet/9mtwd1kmhb48), [app for iOS](https://apps.apple.com/us/app/padlet/id834618886?ls=1).
+
+
 **Pagelet:**
 Component to be embedded in an HTML page.<br>
 Resources: [Entry on the *theefreedictionary.com*](http://encyclopedia2.thefreedictionary.com/pagelet), [Modul "Pagelet" for the BigPipe framework on *npmjs.com*](https://www.npmjs.com/package/pagelet).
