@@ -55,6 +55,11 @@ This page contains a list of various *Query Languages* with names ending on *"QL
 <br><br>
 
 
+**KQL: Kibana Query Language**<br>
+[Reference 1](https://www.elastic.co/guide/en/kibana/current/kuery-query.html)
+<br><br>
+
+
 **KSQL: Kafka SQL**<br>
 [Reference 1](https://www.confluent.io/product/ksql/), [Reference 2](https://www.zdnet.com/article/ksql-kafka-gets-sql/)
 <br><br>
