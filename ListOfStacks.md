@@ -23,3 +23,11 @@
 [Reference 1](https://www.ibm.com/cloud/learn/mean-stack-explained),
 [Reference 2](https://www.mongodb.com/blog/post/the-mean-stack-mongodb-expressjs-angularjs-and)
 
+<br><br>
+
+
+**Tick: Telegraf, InfluxDB, Cronograf und Kapacitor**
+<br>
+[Reference 1](https://www.influxdata.com/blog/introduction-to-influxdatas-influxdb-and-tick-stack/),
+[Reference 2](https://www.udemy.com/course/telegraf-influxdb-chronograftick-for-monitoring-sql-server/)
+
