@@ -16,6 +16,13 @@
 
 <br><br>
 
+**MAMP: Mac, Appache, MySql and PHP**
+<br>
+[Reference 1](https://wpshout.com/quick-guides/how-to-install-mamp-on-your-mac/),
+[Reference 2](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
+
+<br><br>
+
 **MEAN: MongoDB, Express.js, Angular, and Node.js**
 <br>
 [Reference 1](https://www.ibm.com/cloud/learn/mean-stack-explained),
