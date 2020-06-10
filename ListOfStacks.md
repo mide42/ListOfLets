@@ -9,14 +9,12 @@
 
 <br><br>
 
-
 **LAMP: Linux, Apache, MySql and PHP**
 <br>
 [Reference 1](https://www.ibm.com/cloud/learn/lamp-stack-explained),
 [Reference 2](https://www.liquidweb.com/kb/what-is-a-lamp-stack/)
 
 <br><br>
-
 
 **MEAN: MongoDB, Express.js, Angular, and Node.js**
 <br>
@@ -25,9 +23,16 @@
 
 <br><br>
 
-
-**Tick: Telegraf, InfluxDB, Cronograf und Kapacitor**
+**TICK: Telegraf, InfluxDB, Cronograf und Kapacitor**
 <br>
 [Reference 1](https://www.influxdata.com/blog/introduction-to-influxdatas-influxdb-and-tick-stack/),
 [Reference 2](https://www.udemy.com/course/telegraf-influxdb-chronograftick-for-monitoring-sql-server/)
 
+<br><br>
+
+**WAMP: Windows, Apache, MySql and PHP**
+<br>
+[Reference 1](http://ampps.com/wamp),
+[Reference 2](https://www.wpbeginner.com/glossary/wamp/)
+
+<br><br>
