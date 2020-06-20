@@ -13,7 +13,7 @@ Some technologies listed here might be registered trademarks.
 **Applet:**
 An *Applet* is a small Java program embedded in an HTML document (web page).<br>
 Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Applet), [tutorial page on Applets at *oracle.com*](https://docs.oracle.com/javase/tutorial/deployment/applet/).<br>
-The term *Applet* is also used by *IFTTT*, see below.
+The term *Applet* is also used by *IFTTT* and *BusyBox*, see below.
 
 
 **Batchlet:**
@@ -103,7 +103,13 @@ Resources: [The Worklet Custom Service for YAWL. Installation and User Manual (P
 
 ## Non-Java Technologies ##
 
-**Applet:**
+**Applet (BusyBox):**
+BusyBox is a command line program that combines unix utilities/commands like `cp` (copy a file), `ls` (showing list of directory contents), or `find` (search for files in directories).
+These commands are called *Applets*.<br>
+Resources:
+[Manual page for BusyBox](https://busybox.net/downloads/BusyBox.html), [article on how to write a new Applet](https://casper.ssl.berkeley.edu/svn/trunk/roach/sw/busybox-1.10.1/docs/new-applet-HOWTO.txt).
+
+**Applet (IFTTT):**
 IFTTT (*"If this then that"*) is an online service, which allows linking different web services together based on conditions. A configuration of such a "chain of services" is called *Applet*.<br>
 Ressources:
 [Wikipedia article](https://en.wikipedia.org/wiki/IFTTT),
