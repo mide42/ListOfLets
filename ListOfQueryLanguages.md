@@ -69,6 +69,9 @@ This page contains a list of various *Query Languages* with names ending on *"QL
 [Reference 1](https://www.confluent.io/product/ksql/), [Reference 2](https://www.zdnet.com/article/ksql-kafka-gets-sql/)
 <br><br>
 
+**LogQL: Log Query Language of Loki**<br>
+[Reference 1](https://grafana.com/docs/loki/latest/logql/), [Rerence 2](https://medium.com/grafana-tutorials/logql-in-grafana-loki-ffc822a65f59)
+
 
 **PartiQL: SQL-compatible Query Language by Amazon**<br>
 [Reference 1](https://partiql.org/), 
