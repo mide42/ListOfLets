@@ -1,4 +1,5 @@
-This page contains a list of variants for SDKs (Software Development Kit).
+
+See [here](https://www.techopedia.com/definition/3878/software-development-kit-sdk) for an explanation what an SDK is.
 
 ----
 
