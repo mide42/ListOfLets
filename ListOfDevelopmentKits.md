@@ -13,6 +13,12 @@ See [here](https://www.techopedia.com/definition/3878/software-development-kit-s
 [Reference 2](https://www.w3schools.in/java-tutorial/jdk/)
 <br><br>
 
+**MISDK: Medical Imaging Software Development Kit by AccuSoft**<br>
+[Reference 1](https://www.sciencedirect.com/topics/computer-science/software-development-kit),
+[Reference 2](https://www.guwsmedical.info/image-processing/overview-say.html)
+<br><br>
+
+
 **PDK: Puppet Development Kit**<br>
 [Reference 1](https://puppet.com/try-puppet/puppet-development-kit/),
 [Reference 2](https://github.com/puppetlabs/pdk)
