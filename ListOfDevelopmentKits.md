@@ -1,5 +1,5 @@
 
-See [here](https://www.techopedia.com/definition/3878/software-development-kit-sdk) for an explanation what an SDK is.
+See [here](https://www.techopedia.com/definition/3878/software-development-kit-sdk) for an explanation on what an SDK is.
 
 ----
 
