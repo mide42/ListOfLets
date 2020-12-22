@@ -1,3 +1,4 @@
+List of SDKs with a own name occurding to the pattern *xDK*, e.g. *ADK* or *JDK*.
 
 See [here](https://www.techopedia.com/definition/3878/software-development-kit-sdk) for an explanation on what an SDK is.
 
