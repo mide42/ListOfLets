@@ -9,6 +9,11 @@ See [here](https://www.techopedia.com/definition/3878/software-development-kit-s
 [Reference 2](https://forum.xda-developers.com/t/ide-1-0-7-1-adk-a-powerful-android-kitchen-complete.3803044/)
 <br><br>
 
+**CDS-DK: Core Data Services Delevelopment Kit for SAP's CAP**<br>
+[Reference 1](https://www.npmjs.com/package/@sap/cds-dk),
+[Reference 2](https://cap.cloud.sap/docs/get-started/#local-setup)
+<br><br>
+
 
 **JDK: Java Development Kit**<br>
 [Reference 1](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html),
