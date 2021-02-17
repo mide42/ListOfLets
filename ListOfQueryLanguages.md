@@ -1,4 +1,4 @@
-# List of Query Languages
+# List of Query Languages #
 
 This page contains a list of various *Query Languages* with names ending on *"QL"*.
 <br><br>
