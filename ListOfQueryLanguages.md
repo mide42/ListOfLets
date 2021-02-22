@@ -73,9 +73,14 @@ This page contains a list of various *Query Languages* with names ending on *"QL
 [Reference 1](https://grafana.com/docs/loki/latest/logql/), [Reference 2](https://medium.com/grafana-tutorials/logql-in-grafana-loki-ffc822a65f59)
 <br><br>
 
-**MQL: Monitoring Query Langauge**<br>
+**MQL (1): Monitoring Query Language**<br>
 [Reference 1](https://cloud.google.com/monitoring/mql), [Reference 2](https://www.infoq.com/news/2021/01/google-cloud-monitoring-mql/)
 <br><br>
+
+**MQL (2): MongoDB Query Language**<br>
+[Reference 1](https://developer.mongodb.com/how-to/getting-started-atlas-mongodb-query-language-mql/), [Reference 2](https://www.compose.com/articles/digdata-on-implementing-sql-for-mongodb/)
+<br><br>
+
 
 **PartiQL: SQL-compatible Query Language by Amazon**<br>
 [Reference 1](https://partiql.org/), 
