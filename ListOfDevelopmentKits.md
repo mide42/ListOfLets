@@ -4,6 +4,13 @@ See [here](https://www.techopedia.com/definition/3878/software-development-kit-s
 
 ----
 
+**ADGK: Android Game Development Kit**<br>
+[Reference 1](https://developer.android.com/games/agdk),
+[Reference 2](https://www.xda-developers.com/google-for-games-developer-summit-2021-announcements/),
+[Reference 3](https://android-developers.googleblog.com/2021/07/introducing-android-game-development-kit.html)
+<br><br>
+
+
 **ADK: Android Development Kit (do not mix up with the Android SDK)**<br>
 [Reference 1](https://androdevkit.github.io/),
 [Reference 2](https://forum.xda-developers.com/t/ide-1-0-7-1-adk-a-powerful-android-kitchen-complete.3803044/)
