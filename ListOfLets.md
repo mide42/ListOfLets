@@ -244,7 +244,7 @@ Resources:
 
 
 **Scriptlet:**
-A *Scriptlet* is a type of COM component, whereas COM stands for Microsoft's *Component Object Model*. Such an Scriptlet can contain HTML code andcode in a scripting language.<br>
+A *Scriptlet* is a type of COM component, whereas COM stands for Microsoft's *Component Object Model*. Such an Scriptlet can contain HTML code and code in a scripting language.<br>
 Resources:
 [Article on *msdn.microsoft.com*](https://msdn.microsoft.com/en-us/library/office/aa189871(v=office.10).aspx).
 
