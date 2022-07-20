@@ -139,7 +139,7 @@ Resources:
 
 
 **Commandlet (Cmdlet):**
-A command for the *Windows PowerShell* by Microsoft, e.g. `Remove-PrintJob` or `Stop-Process`.<br>
+A command for the *Windows PowerShell* by Microsoft, e.g., `Remove-PrintJob` or `Stop-Process`.<br>
 Resources:
 [MSDN article *"Cmdlet Overview"*](https://docs.microsoft.com/en-us/powershell/developer/cmdlet/cmdlet-overview),
 [article on *howtogeek.com*](https://www.howtogeek.com/114344/5-cmdlets-to-get-you-started-with-powershell/).
@@ -230,14 +230,14 @@ Portmanteau word of _"Phone"_ and _"Tablet"_;  A smartphone bigger than usual (d
 
 
 **Quizlet:**
-Online service for flashcards, e.g. for learning vocabulary.<br>
+Online service for flashcards, e.g., for learning vocabulary or glossary terms.<br>
 Resources:
 [Wikipedia article](http://en.wikipedia.org/wiki/Quizlet),
 [homepage *quizlet.com*](http://quizlet.com).
 
 
 **Screenlets:**
-Short form for *"Screen Applets"*; small applications to be shown on some desktops for Linux (e.g. GNOME or KDE), which are developed using the programming language Python.<br>
+Short form for *"Screen Applets"*; small applications to be shown on some desktops for Linux (e.g., GNOME or KDE), which are developed using the programming language Python.<br>
 Resources:
 [Project page on *launchpad.net*](https://launchpad.net/screenlets),
 [tutorial by IBM developerWorks](http://www.ibm.com/developerworks/library/l-script-linux-desktop-1/#resources).
@@ -264,7 +264,7 @@ Resources:
 
 
 **XMLStarlet:**
-Open source project providing command line tools for processing XML documents on several operating systems (e.g. Linux or Windows).<br/>
+Open source project providing command line tools for processing XML documents on several operating systems (e.g., Linux or Windows).<br/>
 Resources: [Overview article on the project's homepage](http://xmlstar.sourceforge.net/overview.php).
 
 
