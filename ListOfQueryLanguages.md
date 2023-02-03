@@ -109,6 +109,12 @@ This page contains a list of various *Query Languages* with names ending on *"QL
 <br><br>
 
 
+**TraceQL**<br>
+[Reference 1](https://www.infoq.com/news/2022/12/grafana-traceql/),
+[Reference 2](https://grafana.com/blog/2022/11/30/traceql-a-first-of-its-kind-query-language-to-accelerate-trace-analysis-in-tempo-2.0/)
+<br><br>
+
+
 **USQL: User Session Query Language (for Dynatrace)**<br>
 [Reference 1](https://www.dynatrace.com/news/blog/usql-goes-ga-data-driven-decisions-with-powerful-queries-and-advanced-dashboarding/), [Reference 2](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/how-to-use-real-user-monitoring/cross-application-user-session-analytics/custom-queries-segmentation-and-aggregation-of-session-data/)
 <br><br>
