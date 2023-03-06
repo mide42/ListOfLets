@@ -1,4 +1,4 @@
-## Cloud Computing et al. ##
+## xxx Computing ##
 
 <br>
 
@@ -23,5 +23,9 @@
 <br>
 
 **Utility Computing**
+
+<br>
+
+**Wearable Computing**
 
 <br>
