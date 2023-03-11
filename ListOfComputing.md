@@ -6,6 +6,10 @@
 
 <br>
 
+**GPU Computing**
+
+<br>
+
 **Edge Computing**
 
 <br>
@@ -19,6 +23,10 @@
 <br>
 
 **Pervasive Computing**
+
+<br>
+
+**Quantum Computing**
 
 <br>
 
