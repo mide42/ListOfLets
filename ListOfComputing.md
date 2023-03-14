@@ -30,6 +30,10 @@
 
 <br>
 
+**Soft Computing**
+
+<br>
+
 **Utility Computing**
 
 <br>
