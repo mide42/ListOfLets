@@ -30,6 +30,13 @@
 
 <br><br>
 
+**MERN: MongoDB, Express.js, React, and Node.js**
+<br>
+[Reference 1](https://www.mongodb.com/mern-stack),
+[Reference 2](https://www.digitalocean.com/community/tutorials/getting-started-with-the-mern-stack)
+
+<br><br>
+
 **TICK: Telegraf, InfluxDB, Cronograf und Kapacitor**
 <br>
 [Reference 1](https://www.influxdata.com/blog/introduction-to-influxdatas-influxdb-and-tick-stack/),
