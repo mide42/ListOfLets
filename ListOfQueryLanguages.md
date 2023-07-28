@@ -5,6 +5,12 @@ This page contains a list of various *Query Languages* with names ending on *"QL
 
 ----
 
+**CodeQL**<br>
+[Reference 1](https://codeql.github.com/),
+[Reference 2](https://learn.microsoft.com/en-us/training/modules/code-scanning-with-github-codeql/2-what-is-codeql)
+<br><br>
+
+
 **CQL: Cassandra Query Language**<br>
 [Reference 1](http://cassandra.apache.org/doc/4.0/cql/),
 [Reference 2](https://docs.datastax.com/en/cql/3.1/cql/cql_intro_c.html)
