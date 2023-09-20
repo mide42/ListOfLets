@@ -39,7 +39,7 @@ Resources: [Chapter *"Introduction to Facelets"* in *"The Java EE 6 Tutorial"* o
 
 
 **Mailet:**
-Component to process e-mails in the "Java Apache Mail Enterprise Server" (James)
+Component to process e-mails in the "Java Apache Mail Enterprise Server" (James)<br>
 Resources: [Documentation on official page of the project](https://james.apache.org/mailet/)
 
 
@@ -103,6 +103,11 @@ Resources: [Wikipedia's article on XSLT](https://en.wikipedia.org/wiki/XSLT).
 **Worklet:**
 In the terminology of the YAWL workflow engine a worklet is *"\[a\] (usually) small, self-contained, complete process definition which is designed to be invoked as a substitute for one specific task in a larger, composite process."* ([entry in  dictionary of research definitions on *igi-global.com*](http://www.igi-global.com/dictionary/worklet/32806)).<br>
 Resources: [The Worklet Custom Service for YAWL. Installation and User Manual (PDF file)](http://yawlfoundation.org/yawldocs/Worklet_Man.pdf), [API-Doc of YAWL's worklet package](http://www.yawlfoundation.org/javadoc/yawl/org/yawlfoundation/yawl/worklet/package-summary.html).
+
+
+**Xlet:**
+Small application running on digital TV or set-top box (appliance connected to a TV for receiving television program).<br>
+Resources: [Page in English Wikipedia](https://en.wikipedia.org/wiki/Xlet)
 
 <br>
 
