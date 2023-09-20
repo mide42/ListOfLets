@@ -38,6 +38,11 @@ Web template for *Java Server Pages (JSP)*.<br>
 Resources: [Chapter *"Introduction to Facelets"* in *"The Java EE 6 Tutorial"* on *oracle.com*](https://docs.oracle.com/javaee/6/tutorial/doc/giepx.html), [Wikipedia article](https://en.wikipedia.org/wiki/JavaServer_Faces).
 
 
+**Mailet:**
+Component to process e-mails in the "Java Apache Mail Enterprise Server" (James)
+Resources: [Documentation on official page of the project](https://james.apache.org/mailet/)
+
+
 **Midlet:**
 A *Midlet* is an application that runs on a mobile device (or other embedded devices) which supports *Java ME* (Java MicroEdition).<br>
 Resources:
@@ -74,11 +79,13 @@ Resources:
 [Wikipedia article](http://en.wikipedia.org/wiki/Java_servlet),
 [API documentation of class *javax.servlet.http.HttpServlet* on *oracle.com*](http://docs.oracle.com/cd/E17802_01/products/products/servlet/2.3/javadoc/javax/servlet/http/HttpServlet.html).
 
+
 **Taglet:**
 A **Taglet** is a implementation of a custom JavaDoc annotation like *@todo*.<br>
 Resources:
 [Documentation by Oracle](https://docs.oracle.com/javase/7/docs/technotes/guides/javadoc/taglet/overview.html),
 [article *"Create a Taglet to document database access"*](https://www.rgagnon.com/javadetails/java-0473.html).
+
 
 **Tasklet:**
 Tasklet is a single object in [Spring's batch processing](http://spring.io/projects/spring-batch).<br>
@@ -108,6 +115,7 @@ BusyBox is a command line program that combines unix utilities/commands like `cp
 These commands are called *Applets*.<br>
 Resources:
 [Manual page for BusyBox](https://busybox.net/downloads/BusyBox.html), [article on how to write a new Applet](https://casper.ssl.berkeley.edu/svn/trunk/roach/sw/busybox-1.10.1/docs/new-applet-HOWTO.txt).
+
 
 **Applet (IFTTT):**
 IFTTT (*"If this then that"*) is an online service, which allows linking different web services together based on conditions. A configuration of such a "chain of services" is called *Applet*.<br>
