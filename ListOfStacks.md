@@ -9,6 +9,13 @@
 
 <br><br>
 
+**JAMStack: JavaScript, APIs, Markup**
+<br>
+[Reference 1](https://www.cloudflare.com/learning/performance/what-is-jamstack/),
+[Reference 2](https://docs.digitalocean.com/products/functions/getting-started/serverless-jamstack/)
+
+<br><br>
+
 **LAMP: Linux, Apache, MySql and PHP**
 <br>
 [Reference 1](https://www.ibm.com/cloud/learn/lamp-stack-explained),
