@@ -10,6 +10,8 @@ Some technologies listed here might be registered trademarks.
 
 ## Java Technologies ##
 
+<br>
+
 **Applet:**
 An *Applet* is a small Java program embedded in an HTML document (web page).<br>
 Resources: [Wikipedia article](http://en.wikipedia.org/wiki/Applet), [tutorial page on Applets at *oracle.com*](https://docs.oracle.com/javase/tutorial/deployment/applet/).<br>
@@ -114,6 +116,8 @@ Resources: [Page in English Wikipedia](https://en.wikipedia.org/wiki/Xlet)
 ----
 
 ## Non-Java Technologies ##
+
+<br>
 
 **Applet (BusyBox):**
 BusyBox is a command line program that combines unix utilities/commands like `cp` (copy a file), `ls` (showing list of directory contents), or `find` (search for files in directories).
