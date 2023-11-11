@@ -111,7 +111,7 @@ Resources: [The Worklet Custom Service for YAWL. Installation and User Manual (P
 Lighweight version of web workers.<br>
 Resources:
 [Web API reference by Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Worklet),
-[blog article by Bharat Singh Rajput](https://dev.to/bharat5604/what-is-worklet-and-how-its-work-43ie)
+[blog article by Bharat Singh Rajput](https://dev.to/bharat5604/what-is-worklet-and-how-its-work-43ie).
 
 
 **Xlet:**
