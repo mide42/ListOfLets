@@ -102,9 +102,16 @@ XSLT stands for *"Extensible Stylesheet Language Transformation"* and is a langu
 Resources: [Wikipedia's article on XSLT](https://en.wikipedia.org/wiki/XSLT).
 
 
-**Worklet:**
+**Worklet (YAWL):**
 In the terminology of the YAWL workflow engine a worklet is *"\[a\] (usually) small, self-contained, complete process definition which is designed to be invoked as a substitute for one specific task in a larger, composite process."* ([entry in  dictionary of research definitions on *igi-global.com*](http://www.igi-global.com/dictionary/worklet/32806)).<br>
 Resources: [The Worklet Custom Service for YAWL. Installation and User Manual (PDF file)](http://yawlfoundation.org/yawldocs/Worklet_Man.pdf), [API-Doc of YAWL's worklet package](http://www.yawlfoundation.org/javadoc/yawl/org/yawlfoundation/yawl/worklet/package-summary.html).
+
+
+**Worklet (Web Browser):**
+Lighweight version of web workers.<br>
+Resources:
+[Web API reference by Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Worklet),
+[blog article by Bharat Singh Rajput](https://dev.to/bharat5604/what-is-worklet-and-how-its-work-43ie)
 
 
 **Xlet:**
