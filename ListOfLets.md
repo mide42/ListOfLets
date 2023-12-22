@@ -1,9 +1,13 @@
 # List Of *"-Lets"* #
 
+<br>
+
 This document contains a list of names of *software technologies* or *software components* ending with *"-let"*.
+
 <br>
 
 Some technologies listed here might be registered trademarks.
+
 <br>
 
 ----
@@ -295,4 +299,5 @@ Resources: [Overview article on the project's homepage](http://xmlstar.sourcefor
 **Zimlet:**
 Plug-in for the *Zimbra Collaboration Suite*.<br/>
 Resources: [Featured Zimlet Showcase](https://zimbra.org/extend/).
+
 <br>
