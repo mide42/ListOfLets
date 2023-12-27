@@ -43,7 +43,8 @@ This page contains a list of various *Query Languages* with names ending on *"QL
 
 
 **HQL (Hibernate Query Language)**<br>
-[Reference 1](http://docs.jboss.org/hibernate/orm/5.3/userguide/html_single/Hibernate_User_Guide.html#hql)
+[Reference 1](http://docs.jboss.org/hibernate/orm/5.3/userguide/html_single/Hibernate_User_Guide.html#hql),
+[Reference 2](https://www.digitalocean.com/community/tutorials/hibernate-query-language-hql-example-tutorial)
 <br><br>
 
 
