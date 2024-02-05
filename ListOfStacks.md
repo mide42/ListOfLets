@@ -44,6 +44,13 @@
 
 <br><br>
 
+**OLK: OpenSearch, Logstash, and Kibana**
+<br>
+[Reference 1](https://medium.com/@pashashiaik/the-opensearch-logstash-and-kibana-olk-pipeline-for-k8-or-kubernetes-8adb67bc1b1),
+[Reference 2](https://heise.de/-7520965)
+
+<br><br>
+
 **TICK: Telegraf, InfluxDB, Cronograf und Kapacitor**
 <br>
 [Reference 1](https://www.influxdata.com/blog/introduction-to-influxdatas-influxdb-and-tick-stack/),
