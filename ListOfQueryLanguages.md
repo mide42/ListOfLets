@@ -55,10 +55,12 @@ This page contains a list of various *Query Languages* with names ending on *"QL
 <br><br>
 
 
-**JPQL: JPA Query Language**<br>
-"JPA" stands for [*Java Persistence API*](https://www.oracle.com/technetwork/java/javaee/tech/persistence-jsp-140049.html).<br>
-[Reference 1](https://www.objectdb.com/java/jpa/query/api),
-[Reference 2](https://www.thoughts-on-java.org/jpql/)
+**JPQL: Jakarta Persistence Query Language**<br>
+"Jakarta Persistence API (JPA)" is a standard for object-relational mapping between Java objects and relational databases.
+JPQL ist the query language for JPA. 
+Before JPA was handed over to the *Eclipse Foundation* by Oracle, the meaning of the "J" in "JPA" and "JPQL" was "Java" instead of "Jakarta".
+[Reference 1](https://www.jetbrains.com/help/idea/jakarta-persistence-jpa.html)
+[Reference 2](https://blog.payara.fish/getting-started-with-jakarta-ee-9-jakarta-persistence-api-jpa)
 <br><br>
 
 
