@@ -1,9 +1,13 @@
 # List of Query Languages #
 
+<br>
+
 This page contains a list of various *Query Languages* with names ending on *"QL"*.
 <br><br>
 
 ----
+
+<br>
 
 **CodeQL**<br>
 [Reference 1](https://codeql.github.com/),
