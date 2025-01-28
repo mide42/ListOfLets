@@ -97,7 +97,13 @@ Before JPA was handed over to the *Eclipse Foundation* by Oracle, the meaning of
 <br><br>
 
 **MQL (2): MongoDB Query Language**<br>
-[Reference 1](https://developer.mongodb.com/how-to/getting-started-atlas-mongodb-query-language-mql/), [Reference 2](https://www.compose.com/articles/digdata-on-implementing-sql-for-mongodb/)
+[Reference 1](https://developer.mongodb.com/how-to/getting-started-atlas-mongodb-query-language-mql/), 
+[Reference 2](https://www.compose.com/articles/digdata-on-implementing-sql-for-mongodb/)
+<br><br>
+
+**N1QL: SQL for NoSQL Databases**<br>
+[Reference 1](https://www.baeldung.com/n1ql-couchbase),
+[Reference 2](https://query-tutorial.couchbase.com/tutorial/#1)
 <br><br>
 
 
