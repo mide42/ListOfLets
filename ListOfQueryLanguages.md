@@ -88,18 +88,22 @@ Before JPA was handed over to the *Eclipse Foundation* by Oracle, the meaning of
 [Reference 1](https://www.confluent.io/product/ksql/), [Reference 2](https://www.zdnet.com/article/ksql-kafka-gets-sql/)
 <br><br>
 
+
 **LogQL: Log Query Language of Loki**<br>
 [Reference 1](https://grafana.com/docs/loki/latest/logql/), [Reference 2](https://medium.com/grafana-tutorials/logql-in-grafana-loki-ffc822a65f59)
 <br><br>
+
 
 **MQL (1): Monitoring Query Language**<br>
 [Reference 1](https://cloud.google.com/monitoring/mql), [Reference 2](https://www.infoq.com/news/2021/01/google-cloud-monitoring-mql/)
 <br><br>
 
+
 **MQL (2): MongoDB Query Language**<br>
 [Reference 1](https://developer.mongodb.com/how-to/getting-started-atlas-mongodb-query-language-mql/), 
 [Reference 2](https://www.compose.com/articles/digdata-on-implementing-sql-for-mongodb/)
 <br><br>
+
 
 **N1QL: SQL for NoSQL Databases**<br>
 [Reference 1](https://www.baeldung.com/n1ql-couchbase),
@@ -125,7 +129,8 @@ Before JPA was handed over to the *Eclipse Foundation* by Oracle, the meaning of
 
 
 **SPARQL: Protocol and RDF Query Language**<br>
-[Reference 1](https://www.w3.org/TR/sparql11-overview/)
+[Reference 1](https://www.w3.org/TR/sparql11-overview/),
+[Reference 2](https://jena.apache.org/tutorials/sparql.html)
 <br><br>
 
 
