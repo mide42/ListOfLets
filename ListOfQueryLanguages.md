@@ -17,7 +17,8 @@ This page contains a list of various *Query Languages* with names ending on *"QL
 
 **CQL: Cassandra Query Language**<br>
 [Reference 1](http://cassandra.apache.org/doc/4.0/cql/),
-[Reference 2](https://docs.datastax.com/en/cql/3.1/cql/cql_intro_c.html)
+[Reference 2](https://docs.datastax.com/en/cql/3.1/cql/cql_intro_c.html),
+[Reference 3](https://www.oreilly.com/library/view/cassandra-the-definitive/9781098115159/)
 <br><br>
 
 
