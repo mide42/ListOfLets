@@ -80,23 +80,33 @@ Before JPA was handed over to the *Eclipse Foundation* by Oracle, the meaning of
 <br><br>
 
 
-**KQL: Kibana Query Language**<br>
-[Reference 1](https://www.elastic.co/guide/en/kibana/current/kuery-query.html)
+**KQL (1): Kibana Query Language**<br>
+[Reference 1](https://www.elastic.co/guide/en/kibana/current/kuery-query.html),
+[Reference 2](https://medium.com/@musmanqureshi109/mastering-advanced-queries-in-kibana-query-language-kql-unlocking-the-full-potential-of-data-87d6574d5512)
+<br><br>
+
+
+**KQL (2): Kusto Query Language (for Azure)**<br>
+[Reference 1](https://learn.microsoft.com/en-us/kusto/query/),
+[Reference 2](https://www.pluralsight.com/paths/kusto-query-language-kql)
 <br><br>
 
 
 **KSQL: Kafka SQL**<br>
-[Reference 1](https://www.confluent.io/product/ksql/), [Reference 2](https://www.zdnet.com/article/ksql-kafka-gets-sql/)
+[Reference 1](https://www.confluent.io/product/ksql/), 
+[Reference 2](https://www.zdnet.com/article/ksql-kafka-gets-sql/)
 <br><br>
 
 
 **LogQL: Log Query Language of Loki**<br>
-[Reference 1](https://grafana.com/docs/loki/latest/logql/), [Reference 2](https://medium.com/grafana-tutorials/logql-in-grafana-loki-ffc822a65f59)
+[Reference 1](https://grafana.com/docs/loki/latest/logql/), 
+[Reference 2](https://medium.com/grafana-tutorials/logql-in-grafana-loki-ffc822a65f59)
 <br><br>
 
 
 **MQL (1): Monitoring Query Language**<br>
-[Reference 1](https://cloud.google.com/monitoring/mql), [Reference 2](https://www.infoq.com/news/2021/01/google-cloud-monitoring-mql/)
+[Reference 1](https://cloud.google.com/monitoring/mql), 
+[Reference 2](https://www.infoq.com/news/2021/01/google-cloud-monitoring-mql/)
 <br><br>
 
 
@@ -147,7 +157,8 @@ Before JPA was handed over to the *Eclipse Foundation* by Oracle, the meaning of
 
 
 **USQL: User Session Query Language (for Dynatrace)**<br>
-[Reference 1](https://www.dynatrace.com/news/blog/usql-goes-ga-data-driven-decisions-with-powerful-queries-and-advanced-dashboarding/), [Reference 2](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/how-to-use-real-user-monitoring/cross-application-user-session-analytics/custom-queries-segmentation-and-aggregation-of-session-data/)
+[Reference 1](https://www.dynatrace.com/news/blog/usql-goes-ga-data-driven-decisions-with-powerful-queries-and-advanced-dashboarding/), 
+[Reference 2](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/how-to-use-real-user-monitoring/cross-application-user-session-analytics/custom-queries-segmentation-and-aggregation-of-session-data/)
 <br><br>
 
 
