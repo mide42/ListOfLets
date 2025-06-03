@@ -112,7 +112,7 @@ Before JPA was handed over to the *Eclipse Foundation* by Oracle, the meaning of
 
 **MQL (2): MongoDB Query Language**<br>
 [Reference 1](https://developer.mongodb.com/how-to/getting-started-atlas-mongodb-query-language-mql/), 
-[Reference 2](https://www.compose.com/articles/digdata-on-implementing-sql-for-mongodb/)
+[Reference 2](https://medium.com/@kavya1234/mongodb-query-language-mql-0ce1a07c009b)
 <br><br>
 
 
