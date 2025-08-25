@@ -253,6 +253,13 @@ Component to be embedded in an HTML page.<br>
 Resources: [Entry on the *theefreedictionary.com*](http://encyclopedia2.thefreedictionary.com/pagelet), [Modul "Pagelet" for the BigPipe framework on *npmjs.com*](https://www.npmjs.com/package/pagelet).
 
 
+**Patchlet:**
+Tiny security patch for 0Patch by Acros Security<br>
+Resources: 
+[Blog article about writing a security patch](https://blog.0patch.com/2016/06/writing-0patch-for-acrobat-readers-use.html), 
+["Patch Developer Manual" by Acros Security](https://0patch.com/files/0patch_Patch_Developer_Manual.pdf).
+
+
 **Phablet:**
 Portmanteau word of _"Phone"_ and _"Tablet"_;  A smartphone bigger than usual (display diagonal size between 5 and 7 inches), but smaller than a tablet; a small tablet computer that can be used for phone calls; see also _Smartlet_.
 
@@ -301,3 +308,4 @@ Plug-in for the *Zimbra Collaboration Suite*.<br/>
 Resources: [Featured Zimlet Showcase](https://zimbra.org/extend/).
 
 <br>
+
