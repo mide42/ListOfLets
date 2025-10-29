@@ -27,6 +27,10 @@ This page contains a list of various *Query Languages* with names ending on *"QL
 <br><br>
 
 
+**DQL: Dataview Query Language (Obsidian Plugin)**<br>
+[Rerence 1](https://github.com/blacksmithgu/obsidian-dataview?tab=readme-ov-file#querying)
+<br><br>
+
 **EQL: Event Query Language**<br>
 [Reference 1](https://www.elastic.co/blog/introducing-event-query-language), [Reference 2](https://www.elastic.co/blog/eql-for-the-masses)
 <br><br>
