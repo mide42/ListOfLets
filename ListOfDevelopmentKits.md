@@ -16,6 +16,10 @@ See [here](https://www.techopedia.com/definition/3878/software-development-kit-s
 [Reference 2](https://forum.xda-developers.com/t/ide-1-0-7-1-adk-a-powerful-android-kitchen-complete.3803044/)
 <br><br>
 
+**ADK: Agent Development Kit**<br>
+[Reference 1](https://codelabs.developers.google.com/adk-java-getting-started?hl=en#0),
+[Reference 2](https://github.com/google/adk-java/)
+<br><br>
 
 **CDS-DK: Core Data Services Delevelopment Kit for SAP's CAP**<br>
 [Reference 1](https://www.npmjs.com/package/@sap/cds-dk),
