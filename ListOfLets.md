@@ -225,6 +225,12 @@ Resources:
 [Series of articles tagged "hacklet"](https://hackaday.com/tag/hacklet/).
 
 
+**Infolet:**
+Card on UI of an Oracle product displaying information.
+Resources:
+["About Infolets" on *docs.oracle.com*](https://docs.oracle.com/en/cloud/saas/freeform/freef/infolets_about_100x539557bf.html)
+
+
 **Kubelets:**
 Software agent that runs on each node (real or virtual machine) of a Kubernetes cluster.<br>
 Resources:
