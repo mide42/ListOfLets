@@ -8,7 +8,7 @@ The [main document](https://github.com/mide42/ListOfLets/blob/master/ListOfLets.
 
 <br>
 
-Further, the repository contains also the following word lists:
+Further, the repository contains also the following lists:
 * [List of Query Languages](ListOfQueryLanguages.md)
 * [List of Development Kits](ListOfDevelopmentKits.md)
 * [List of Software Stacks](ListOfStacks.md)
