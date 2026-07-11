@@ -15,7 +15,7 @@ Further, the repository contains also the following lists:
 
 This repository contains only markdown files (for formatted text), but no source code for an executable computer program.
 
-Referenced articles (e.g., Wikipedia articles) have to be in English, of course.
+Referenced articles (e.g., Wikipedia articles) are in English, of course.
 
 <br>
 
